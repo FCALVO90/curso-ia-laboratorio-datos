@@ -1,0 +1,50 @@
+{"fecha_factura":{"$date":"2011-12-09T09:15:00Z"},"unidades":80995,"lineas":1,"invoice_no":"581483","customer_id":"16446","country":"United Kingdom","productos_distintos":1,"total_factura":168469.6}
+{"fecha_factura":{"$date":"2011-01-18T10:01:00Z"},"unidades":74215,"lineas":1,"invoice_no":"541431","customer_id":"12346","country":"United Kingdom","productos_distintos":1,"total_factura":77183.6}
+{"fecha_factura":{"$date":"2011-11-07T17:42:00Z"},"unidades":14149,"lineas":101,"invoice_no":"574941","customer_id":null,"country":"United Kingdom","productos_distintos":101,"total_factura":52940.94}
+{"fecha_factura":{"$date":"2011-11-14T17:55:00Z"},"unidades":13956,"lineas":99,"invoice_no":"576365","customer_id":null,"country":"United Kingdom","productos_distintos":99,"total_factura":50653.91}
+{"fecha_factura":{"$date":"2010-11-15T16:02:00Z"},"unidades":13387,"lineas":111,"invoice_no":"533027","customer_id":null,"country":"United Kingdom","productos_distintos":111,"total_factura":49844.99}
+{"fecha_factura":{"$date":"2010-11-08T16:45:00Z"},"unidades":12410,"lineas":115,"invoice_no":"531516","customer_id":null,"country":"United Kingdom","productos_distintos":115,"total_factura":45332.97}
+{"fecha_factura":{"$date":"2010-01-07T12:34:00Z"},"unidades":25018,"lineas":94,"invoice_no":"493819","customer_id":"14156","country":"EIRE","productos_distintos":94,"total_factura":44051.6}
+{"fecha_factura":{"$date":"2011-06-10T15:28:00Z"},"unidades":60,"lineas":1,"invoice_no":"556444","customer_id":"15098","country":"United Kingdom","productos_distintos":1,"total_factura":38970}
+{"fecha_factura":{"$date":"2010-09-27T16:59:00Z"},"unidades":8172,"lineas":13,"invoice_no":"524181","customer_id":"17450","country":"United Kingdom","productos_distintos":13,"total_factura":33167.8}
+{"fecha_factura":{"$date":"2010-12-07T16:43:00Z"},"unidades":7378,"lineas":18,"invoice_no":"537659","customer_id":"18102","country":"United Kingdom","productos_distintos":9,"total_factura":31770.98}
+{"fecha_factura":{"$date":"2011-09-20T11:05:00Z"},"unidades":12572,"lineas":12,"invoice_no":"567423","customer_id":"17450","country":"United Kingdom","productos_distintos":12,"total_factura":31698.16}
+{"fecha_factura":{"$date":"2010-12-07T15:08:00Z"},"unidades":2,"lineas":2,"invoice_no":"537632","customer_id":null,"country":"United Kingdom","productos_distintos":1,"total_factura":27082.66}
+{"fecha_factura":{"$date":"2010-10-14T09:46:00Z"},"unidades":5079,"lineas":15,"invoice_no":"526934","customer_id":"18102","country":"United Kingdom","productos_distintos":15,"total_factura":26007.08}
+{"fecha_factura":{"$date":"2010-06-17T16:53:00Z"},"unidades":1,"lineas":1,"invoice_no":"512771","customer_id":null,"country":"United Kingdom","productos_distintos":1,"total_factura":25111.09}
+{"fecha_factura":{"$date":"2010-12-07T15:31:00Z"},"unidades":4400,"lineas":296,"invoice_no":"537640","customer_id":null,"country":"United Kingdom","productos_distintos":148,"total_factura":23080.68}
+{"fecha_factura":{"$date":"2010-07-15T15:29:00Z"},"unidades":4992,"lineas":17,"invoice_no":"515944","customer_id":"18102","country":"United Kingdom","productos_distintos":17,"total_factura":22863.36}
+{"fecha_factura":{"$date":"2010-03-29T16:47:00Z"},"unidades":5924,"lineas":117,"invoice_no":"503061","customer_id":null,"country":"United Kingdom","productos_distintos":117,"total_factura":22853.77}
+{"fecha_factura":{"$date":"2011-06-15T13:37:00Z"},"unidades":15049,"lineas":138,"invoice_no":"556917","customer_id":"12415","country":"Australia","productos_distintos":138,"total_factura":22775.93}
+{"fecha_factura":{"$date":"2011-10-21T12:08:00Z"},"unidades":1920,"lineas":7,"invoice_no":"572209","customer_id":"18102","country":"United Kingdom","productos_distintos":7,"total_factura":22206}
+{"fecha_factura":{"$date":"2011-09-20T10:12:00Z"},"unidades":6760,"lineas":12,"invoice_no":"567381","customer_id":"17450","country":"United Kingdom","productos_distintos":12,"total_factura":22104.8}
+{"fecha_factura":{"$date":"2010-08-01T13:31:00Z"},"unidades":4800,"lineas":16,"invoice_no":"517731","customer_id":"18102","country":"United Kingdom","productos_distintos":16,"total_factura":21984}
+{"fecha_factura":{"$date":"2011-08-18T08:51:00Z"},"unidades":12196,"lineas":97,"invoice_no":"563614","customer_id":"12415","country":"Australia","productos_distintos":97,"total_factura":21880.44}
+{"fecha_factura":{"$date":"2011-03-29T16:40:00Z"},"unidades":5964,"lineas":139,"invoice_no":"548203","customer_id":null,"country":"United Kingdom","productos_distintos":139,"total_factura":21627.72}
+{"fecha_factura":{"$date":"2011-04-18T13:20:00Z"},"unidades":9014,"lineas":5,"invoice_no":"550461","customer_id":"15749","country":"United Kingdom","productos_distintos":5,"total_factura":21535.9}
+{"fecha_factura":{"$date":"2010-12-03T14:27:00Z"},"unidades":3668,"lineas":290,"invoice_no":"536982","customer_id":null,"country":"United Kingdom","productos_distintos":145,"total_factura":21323.38}
+{"fecha_factura":{"$date":"2011-10-20T12:03:00Z"},"unidades":13392,"lineas":125,"invoice_no":"572035","customer_id":"14646","country":"Netherlands","productos_distintos":125,"total_factura":20277.92}
+{"fecha_factura":{"$date":"2010-12-07T16:42:00Z"},"unidades":5580,"lineas":10,"invoice_no":"537657","customer_id":"18102","country":"United Kingdom","productos_distintos":5,"total_factura":19278.24}
+{"fecha_factura":{"$date":"2011-08-11T16:12:00Z"},"unidades":14730,"lineas":119,"invoice_no":"563076","customer_id":"14646","country":"Netherlands","productos_distintos":119,"total_factura":19150.66}
+{"fecha_factura":{"$date":"2011-08-04T18:06:00Z"},"unidades":11848,"lineas":22,"invoice_no":"562439","customer_id":"12931","country":"United Kingdom","productos_distintos":22,"total_factura":18841.48}
+{"fecha_factura":{"$date":"2010-12-21T15:40:00Z"},"unidades":2853,"lineas":186,"invoice_no":"539750","customer_id":null,"country":"United Kingdom","productos_distintos":153,"total_factura":18745.86}
+{"fecha_factura":{"$date":"2010-01-26T10:25:00Z"},"unidades":12832,"lineas":90,"invoice_no":"495591","customer_id":"14646","country":"Netherlands","productos_distintos":89,"total_factura":18570.88}
+{"fecha_factura":{"$date":"2010-01-12T15:57:00Z"},"unidades":7782,"lineas":44,"invoice_no":"494243","customer_id":"18102","country":"United Kingdom","productos_distintos":44,"total_factura":18532.3}
+{"fecha_factura":{"$date":"2010-11-10T11:28:00Z"},"unidades":3976,"lineas":13,"invoice_no":"531866","customer_id":"18102","country":"United Kingdom","productos_distintos":13,"total_factura":18122.17}
+{"fecha_factura":{"$date":"2010-07-09T09:46:00Z"},"unidades":7172,"lineas":25,"invoice_no":"515187","customer_id":"14156","country":"EIRE","productos_distintos":25,"total_factura":17995.88}
+{"fecha_factura":{"$date":"2010-11-04T11:36:00Z"},"unidades":15696,"lineas":2,"invoice_no":"530715","customer_id":"15838","country":"United Kingdom","productos_distintos":2,"total_factura":17022.24}
+{"fecha_factura":{"$date":"2010-02-15T11:57:00Z"},"unidades":83774,"lineas":30,"invoice_no":"497946","customer_id":"13902","country":"Denmark","productos_distintos":30,"total_factura":16973.1}
+{"fecha_factura":{"$date":"2011-10-31T14:41:00Z"},"unidades":5198,"lineas":1114,"invoice_no":"573585","customer_id":null,"country":"United Kingdom","productos_distintos":1110,"total_factura":16874.58}
+{"fecha_factura":{"$date":"2011-01-14T14:11:00Z"},"unidades":6198,"lineas":41,"invoice_no":"541220","customer_id":"14156","country":"EIRE","productos_distintos":41,"total_factura":16774.72}
+{"fecha_factura":{"$date":"2011-03-03T10:59:00Z"},"unidades":10272,"lineas":82,"invoice_no":"545475","customer_id":"12415","country":"Australia","productos_distintos":82,"total_factura":16726.84}
+{"fecha_factura":{"$date":"2011-08-11T10:14:00Z"},"unidades":2501,"lineas":353,"invoice_no":"562955","customer_id":null,"country":"United Kingdom","productos_distintos":353,"total_factura":16677.26}
+{"fecha_factura":{"$date":"2010-11-29T15:07:00Z"},"unidades":12048,"lineas":99,"invoice_no":"536009","customer_id":"12415","country":"Australia","productos_distintos":99,"total_factura":16554.88}
+{"fecha_factura":{"$date":"2011-06-09T17:27:00Z"},"unidades":3600,"lineas":12,"invoice_no":"556255","customer_id":"18102","country":"United Kingdom","productos_distintos":12,"total_factura":16488}
+{"fecha_factura":{"$date":"2010-08-10T16:10:00Z"},"unidades":11904,"lineas":89,"invoice_no":"518673","customer_id":"14646","country":"Netherlands","productos_distintos":89,"total_factura":16483}
+{"fecha_factura":{"$date":"2010-12-06T16:57:00Z"},"unidades":3738,"lineas":1350,"invoice_no":"537434","customer_id":null,"country":"United Kingdom","productos_distintos":674,"total_factura":16446.8}
+{"fecha_factura":{"$date":"2011-03-29T11:14:00Z"},"unidades":11116,"lineas":89,"invoice_no":"548011","customer_id":"14646","country":"Netherlands","productos_distintos":89,"total_factura":15719.56}
+{"fecha_factura":{"$date":"2011-10-05T12:44:00Z"},"unidades":6895,"lineas":81,"invoice_no":"569650","customer_id":"12415","country":"Australia","productos_distintos":81,"total_factura":15643.77}
+{"fecha_factura":{"$date":"2010-12-06T10:08:00Z"},"unidades":3622,"lineas":1136,"invoice_no":"537240","customer_id":null,"country":"United Kingdom","productos_distintos":568,"total_factura":15320.96}
+{"fecha_factura":{"$date":"2011-01-11T12:55:00Z"},"unidades":7044,"lineas":3,"invoice_no":"540815","customer_id":"15749","country":"United Kingdom","productos_distintos":3,"total_factura":15160.9}
+{"fecha_factura":{"$date":"2010-11-25T11:04:00Z"},"unidades":10014,"lineas":43,"invoice_no":"535104","customer_id":"16684","country":"United Kingdom","productos_distintos":43,"total_factura":15070.22}
+{"fecha_factura":{"$date":"2010-12-06T09:58:00Z"},"unidades":3216,"lineas":1194,"invoice_no":"537237","customer_id":null,"country":"United Kingdom","productos_distintos":595,"total_factura":14670.9}

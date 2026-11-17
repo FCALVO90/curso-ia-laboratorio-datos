@@ -1,0 +1,9 @@
+psql:src/queries/sql/dashboard_ejecutivo_taxi.sql:28: NOTICE:  materialized view "mv_dashboard_ejecutivo_2024" does not exist, skipping
+DROP MATERIALIZED VIEW
+SELECT 73
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+CREATE INDEX
+ANALYZE

@@ -1,0 +1,36 @@
+{"lineas_canceladas":16650,"country":"United Kingdom","facturas_canceladas":7315,"importe_cancelado":-1329717.74}
+{"lineas_canceladas":921,"country":"Germany","facturas_canceladas":306,"importe_cancelado":-13273.9}
+{"lineas_canceladas":512,"country":"EIRE","facturas_canceladas":180,"importe_cancelado":-48912.23}
+{"lineas_canceladas":389,"country":"France","facturas_canceladas":124,"importe_cancelado":-28752.8}
+{"lineas_canceladas":126,"country":"USA","facturas_canceladas":5,"importe_cancelado":-2080.32}
+{"lineas_canceladas":98,"country":"Australia","facturas_canceladas":22,"importe_cancelado":-2839.04}
+{"lineas_canceladas":97,"country":"Japan","facturas_canceladas":23,"importe_cancelado":-3361.81}
+{"lineas_canceladas":95,"country":"Channel Islands","facturas_canceladas":24,"importe_cancelado":-3543.15}
+{"lineas_canceladas":91,"country":"Spain","facturas_canceladas":34,"importe_cancelado":-17319.05}
+{"lineas_canceladas":66,"country":"Italy","facturas_canceladas":27,"importe_cancelado":-1871.07}
+{"lineas_canceladas":58,"country":"Portugal","facturas_canceladas":29,"importe_cancelado":-4879.85}
+{"lineas_canceladas":54,"country":"Belgium","facturas_canceladas":34,"importe_cancelado":-2178.93}
+{"lineas_canceladas":52,"country":"Switzerland","facturas_canceladas":30,"importe_cancelado":-1282.53}
+{"lineas_canceladas":47,"country":"Netherlands","facturas_canceladas":21,"importe_cancelado":-5707.39}
+{"lineas_canceladas":33,"country":"United Arab Emirates","facturas_canceladas":6,"importe_cancelado":-1148.98}
+{"lineas_canceladas":26,"country":"Sweden","facturas_canceladas":24,"importe_cancelado":-4094.3}
+{"lineas_canceladas":23,"country":"Poland","facturas_canceladas":10,"importe_cancelado":-374.36}
+{"lineas_canceladas":21,"country":"Cyprus","facturas_canceladas":8,"importe_cancelado":-817.39}
+{"lineas_canceladas":19,"country":"Denmark","facturas_canceladas":10,"importe_cancelado":-4121.1}
+{"lineas_canceladas":18,"country":"Norway","facturas_canceladas":8,"importe_cancelado":-20866.59}
+{"lineas_canceladas":17,"country":"Finland","facturas_canceladas":11,"importe_cancelado":-411.09}
+{"lineas_canceladas":17,"country":"Malta","facturas_canceladas":7,"importe_cancelado":-2906.87}
+{"lineas_canceladas":16,"country":"Austria","facturas_canceladas":6,"importe_cancelado":-435.41}
+{"lineas_canceladas":10,"country":"Korea","facturas_canceladas":1,"importe_cancelado":-168.69}
+{"lineas_canceladas":7,"country":"Singapore","facturas_canceladas":3,"importe_cancelado":-12158.9}
+{"lineas_canceladas":6,"country":"Hong Kong","facturas_canceladas":6,"importe_cancelado":-9855.02}
+{"lineas_canceladas":6,"country":"Greece","facturas_canceladas":3,"importe_cancelado":-100.7}
+{"lineas_canceladas":5,"country":"Czech Republic","facturas_canceladas":3,"importe_cancelado":-119.02}
+{"lineas_canceladas":4,"country":"Unspecified","facturas_canceladas":4,"importe_cancelado":-1248.69}
+{"lineas_canceladas":2,"country":"Bahrain","facturas_canceladas":2,"importe_cancelado":-248.24}
+{"lineas_canceladas":2,"country":"Nigeria","facturas_canceladas":1,"importe_cancelado":-147.05}
+{"lineas_canceladas":2,"country":"Israel","facturas_canceladas":1,"importe_cancelado":-227.44}
+{"lineas_canceladas":1,"country":"Lebanon","facturas_canceladas":1,"importe_cancelado":-39.67}
+{"lineas_canceladas":1,"country":"RSA","facturas_canceladas":1,"importe_cancelado":-1435.29}
+{"lineas_canceladas":1,"country":"European Community","facturas_canceladas":1,"importe_cancelado":-8.5}
+{"lineas_canceladas":1,"country":"Saudi Arabia","facturas_canceladas":1,"importe_cancelado":-14.75}

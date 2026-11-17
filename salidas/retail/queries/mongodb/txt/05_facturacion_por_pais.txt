@@ -1,0 +1,43 @@
+{"total_lineas":958501,"unidades":9383244,"country":"United Kingdom","total_facturas":36535,"total_clientes":5351,"facturacion":17870977.78}
+{"total_lineas":17349,"unidades":340289,"country":"EIRE","total_facturas":626,"total_clientes":6,"facturacion":664431.78}
+{"total_lineas":5088,"unidades":383977,"country":"Netherlands","total_facturas":228,"total_clientes":22,"facturacion":554232.34}
+{"total_lineas":16694,"unidades":227983,"country":"Germany","total_facturas":789,"total_clientes":107,"facturacion":431262.46}
+{"total_lineas":13940,"unidades":275287,"country":"France","total_facturas":622,"total_clientes":96,"facturacion":356944.6}
+{"total_lineas":1812,"unidades":104090,"country":"Australia","total_facturas":95,"total_clientes":15,"facturacion":169968.11}
+{"total_lineas":3719,"unidades":50796,"country":"Spain","total_facturas":154,"total_clientes":41,"facturacion":109178.53}
+{"total_lineas":3136,"unidades":52884,"country":"Switzerland","total_facturas":93,"total_clientes":23,"facturacion":101011.29}
+{"total_lineas":1338,"unidades":88650,"country":"Sweden","total_facturas":105,"total_clientes":20,"facturacion":91903.72}
+{"total_lineas":798,"unidades":237925,"country":"Denmark","total_facturas":43,"total_clientes":12,"facturacion":69862.19}
+{"total_lineas":3068,"unidades":35302,"country":"Belgium","total_facturas":149,"total_clientes":29,"facturacion":65753.42}
+{"total_lineas":1436,"unidades":27203,"country":"Norway","total_facturas":45,"total_clientes":13,"facturacion":60109.62}
+{"total_lineas":2562,"unidades":28409,"country":"Portugal","total_facturas":95,"total_clientes":25,"facturacion":58016.65}
+{"total_lineas":485,"unidades":33327,"country":"Japan","total_facturas":33,"total_clientes":10,"facturacion":47138.39}
+{"total_lineas":1569,"unidades":21482,"country":"Channel Islands","total_facturas":55,"total_clientes":13,"facturacion":44996.76}
+{"total_lineas":1468,"unidades":15501,"country":"Italy","total_facturas":65,"total_clientes":17,"facturacion":32550.42}
+{"total_lineas":1032,"unidades":14375,"country":"Finland","total_facturas":57,"total_clientes":14,"facturacion":29925.54}
+{"total_lineas":339,"unidades":6994,"country":"Singapore","total_facturas":11,"total_clientes":1,"facturacion":25317.06}
+{"total_lineas":1155,"unidades":10986,"country":"Cyprus","total_facturas":37,"total_clientes":11,"facturacion":24980.13}
+{"total_lineas":358,"unidades":7081,"country":"Hong Kong","total_facturas":15,"total_clientes":1,"facturacion":23894.32}
+{"total_lineas":922,"unidades":11578,"country":"Austria","total_facturas":45,"total_clientes":13,"facturacion":23613.01}
+{"total_lineas":657,"unidades":7724,"country":"Greece","total_facturas":18,"total_clientes":5,"facturacion":19096.19}
+{"total_lineas":369,"unidades":5541,"country":"Israel","total_facturas":10,"total_clientes":5,"facturacion":11334.66}
+{"total_lineas":467,"unidades":7321,"country":"United Arab Emirates","total_facturas":16,"total_clientes":5,"facturacion":11097.63}
+{"total_lineas":752,"unidades":6734,"country":"Unspecified","total_facturas":24,"total_clientes":7,"facturacion":10936.01}
+{"total_lineas":512,"unidades":5828,"country":"Poland","total_facturas":28,"total_clientes":6,"facturacion":10902.45}
+{"total_lineas":409,"unidades":5264,"country":"USA","total_facturas":20,"total_clientes":9,"facturacion":8366.86}
+{"total_lineas":282,"unidades":2519,"country":"Malta","total_facturas":9,"total_clientes":2,"facturacion":8099.09}
+{"total_lineas":189,"unidades":2958,"country":"Lithuania","total_facturas":6,"total_clientes":1,"facturacion":6553.74}
+{"total_lineas":253,"unidades":3286,"country":"Iceland","total_facturas":8,"total_clientes":1,"facturacion":5633.32}
+{"total_lineas":228,"unidades":3657,"country":"Canada","total_facturas":8,"total_clientes":5,"facturacion":4883.04}
+{"total_lineas":167,"unidades":1970,"country":"RSA","total_facturas":4,"total_clientes":3,"facturacion":4804.32}
+{"total_lineas":124,"unidades":1339,"country":"Bahrain","total_facturas":10,"total_clientes":3,"facturacion":3109.79}
+{"total_lineas":76,"unidades":2552,"country":"Thailand","total_facturas":2,"total_clientes":1,"facturacion":3070.54}
+{"total_lineas":57,"unidades":458,"country":"Lebanon","total_facturas":2,"total_clientes":2,"facturacion":1905.58}
+{"total_lineas":94,"unidades":545,"country":"Brazil","total_facturas":2,"total_clientes":2,"facturacion":1411.87}
+{"total_lineas":60,"unidades":499,"country":"European Community","total_facturas":4,"total_clientes":1,"facturacion":1300.25}
+{"total_lineas":34,"unidades":2798,"country":"Bermuda","total_facturas":1,"total_clientes":1,"facturacion":1253.14}
+{"total_lineas":53,"unidades":700,"country":"Korea","total_facturas":2,"total_clientes":2,"facturacion":1118.51}
+{"total_lineas":25,"unidades":671,"country":"Czech Republic","total_facturas":2,"total_clientes":1,"facturacion":826.74}
+{"total_lineas":54,"unidades":395,"country":"West Indies","total_facturas":1,"total_clientes":1,"facturacion":536.41}
+{"total_lineas":9,"unidades":80,"country":"Saudi Arabia","total_facturas":1,"total_clientes":1,"facturacion":145.92}
+{"total_lineas":30,"unidades":103,"country":"Nigeria","total_facturas":2,"total_clientes":1,"facturacion":140.39}

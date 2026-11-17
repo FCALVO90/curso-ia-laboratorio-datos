@@ -1,0 +1,49 @@
+2026-11-17 07:39:19 | INFO | ===============================================================================
+2026-11-17 07:39:19 | INFO | INICIO DE LA LIMPIEZA DEL DATASET DE CALIDAD DEL AIRE
+2026-11-17 07:39:19 | INFO | ===============================================================================
+2026-11-17 07:39:19 | INFO | RAW: /home/fcqdevadmin/curso_ia/datos/raw/aire_madrid/calidad_aire_madrid.csv
+2026-11-17 07:39:19 | INFO | Processed: /home/fcqdevadmin/curso_ia/datos/processed/aire_madrid/calidad_aire_madrid_procesado.csv
+2026-11-17 07:39:19 | INFO | SHA256 RAW antes de limpiar: a3e0a5d416a1b632892bf4355b0988293555e78f99c2a0bb004a3e57b58d89f2
+2026-11-17 07:39:19 | INFO | Leyendo fichero RAW...
+2026-11-17 07:39:19 | INFO | Registros RAW: 1411
+2026-11-17 07:39:19 | INFO | Columnas RAW: 69
+2026-11-17 07:39:19 | INFO | Transformando D01/V01 ... D31/V31 a formato largo...
+2026-11-17 07:39:19 | INFO | Registros tras transformación a largo: 43741
+2026-11-17 07:39:19 | INFO | Construyendo fecha diaria...
+2026-11-17 07:39:19 | INFO | Fechas imposibles detectadas: 768
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/16_fechas_imposibles_eliminadas.csv
+2026-11-17 07:39:19 | INFO | Registros tras eliminar fechas imposibles: 42973
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/17_indicadores_validez_fechas_reales.csv
+2026-11-17 07:39:19 | INFO | Mediciones con fecha real pero no válidas: 700
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/18_mediciones_no_validas_eliminadas.csv
+2026-11-17 07:39:19 | INFO | Registros después del filtro de validez: 42273
+2026-11-17 07:39:19 | INFO | Valores no numéricos/nulos después de conversión: 0
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/19_valores_no_numericos_eliminados.csv
+2026-11-17 07:39:19 | INFO | Duplicados diarios detectados: 0
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/20_duplicados_diarios_eliminados.csv
+2026-11-17 07:39:19 | INFO | Valores negativos: 0
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/21_valores_negativos_detectados.csv
+2026-11-17 07:39:19 | INFO | Detectando posibles atípicos mediante IQR por magnitud...
+2026-11-17 07:39:20 | INFO | Posibles atípicos IQR detectados: 2577
+2026-11-17 07:39:20 | INFO | Los posibles atípicos se CONSERVAN.
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/22_resumen_atipicos_iqr.csv
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/23_atipicos_iqr_detectados.csv
+2026-11-17 07:39:20 | INFO | Registros finales: 42273
+2026-11-17 07:39:20 | INFO | Validaciones internas superadas.
+2026-11-17 07:39:20 | INFO | Escribiendo dataset procesado...
+2026-11-17 07:39:20 | INFO | Dataset procesado generado: /home/fcqdevadmin/curso_ia/datos/processed/aire_madrid/calidad_aire_madrid_procesado.csv
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/24_muestra_dataset_procesado.csv
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/25_resumen_dataset_procesado_por_magnitud.csv
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/26_resumen_dataset_procesado_por_mes.csv
+2026-11-17 07:39:20 | INFO | SHA256 RAW después de limpiar: a3e0a5d416a1b632892bf4355b0988293555e78f99c2a0bb004a3e57b58d89f2
+2026-11-17 07:39:20 | INFO | Integridad RAW comprobada: NO MODIFICADO.
+2026-11-17 07:39:20 | INFO | JSON generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/json/02_resumen_limpieza.json
+2026-11-17 07:39:20 | INFO | ===============================================================================
+2026-11-17 07:39:20 | INFO | LIMPIEZA COMPLETADA CORRECTAMENTE
+2026-11-17 07:39:20 | INFO | RAW: 1411 registros
+2026-11-17 07:39:20 | INFO | Formato largo: 43741 registros
+2026-11-17 07:39:20 | INFO | Procesado final: 42273 registros
+2026-11-17 07:39:20 | INFO | Atípicos conservados: 2577
+2026-11-17 07:39:20 | INFO | Duración: 0.24 segundos
+2026-11-17 07:39:20 | INFO | RAW NO MODIFICADO
+2026-11-17 07:39:20 | INFO | ===============================================================================

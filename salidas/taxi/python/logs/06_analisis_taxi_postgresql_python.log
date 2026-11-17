@@ -1,0 +1,66 @@
+======================================================================
+ ANÁLISIS NYC TAXI DESDE POSTGRESQL CON PYTHON
+======================================================================
+[INFO] PostgreSQL: nyc_taxi.viajes_limpios
+[INFO] Máximo de registros para ML: 150,000
+[INFO] Porcentaje TABLESAMPLE: 0.35
+[INFO] Semilla: 42
+[OK] Columnas detectadas: 34
+
+======================================================================
+ 1. EVOLUCIÓN MENSUAL
+======================================================================
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/01_resumen_mensual_python.csv
+[OK] Gráfico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/01_evolucion_mensual.png
+
+======================================================================
+ 2. PERFIL HORARIO
+======================================================================
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/02_perfil_horario_python.csv
+[OK] Gráfico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/02_demanda_horaria.png
+
+======================================================================
+ 3. RUTAS MÁS FRECUENTES
+======================================================================
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/03_top_rutas_python.csv
+[OK] Gráfico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/03_top_rutas.png
+
+======================================================================
+ 4. MAPA DE CALOR DÍA-HORA
+======================================================================
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/04_demanda_dia_hora_python.csv
+[OK] Gráfico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/04_heatmap_demanda.png
+
+======================================================================
+ 5. EXTRACCIÓN DE MUESTRA PARA MODELOS
+======================================================================
+[OK] Muestra de modelado: 138,069 registros
+
+======================================================================
+ 6. MODELO DE DURACIÓN
+======================================================================
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/05_metricas_regresion_duracion_python.csv
+[OK] Gráfico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/05_modelo_duracion.png
+
+======================================================================
+ 7. IMPORTANCIA DE VARIABLES
+======================================================================
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/06_importancia_duracion_python.csv
+[OK] Gráfico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/06_importancia_duracion.png
+
+======================================================================
+ 8. MODELO DE PROPINA ALTA
+======================================================================
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/07_metricas_clasificacion_propina_python.csv
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/07_reporte_clasificacion_propina_python.csv
+[OK] Gráfico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/07_matriz_confusion_propina.png
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/08_importancia_propina_python.csv
+[OK] Gráfico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/08_importancia_propina.png
+[OK] JSON guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/json/00_resumen_python.json
+
+======================================================================
+ ANÁLISIS PYTHON FINALIZADO
+======================================================================
+[OK] CSVs     : /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv
+[OK] JSON     : /home/fcqdevadmin/curso_ia/salidas/taxi/python/json
+[OK] Gráficos : /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos

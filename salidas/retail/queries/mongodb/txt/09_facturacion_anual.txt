@@ -1,0 +1,3 @@
+{"unidades":426981,"anio":2009,"facturas":1682,"clientes":956,"facturacion":825685.76}
+{"unidades":5764186,"anio":2010,"facturas":19994,"clientes":4232,"facturacion":10303952.4}
+{"unidades":5229138,"anio":2011,"facturas":18401,"clientes":4220,"facturacion":9842956.4}

@@ -1,0 +1,317 @@
+
+======================================================================
+ INSPECCION DEL DATASET NYC YELLOW TAXI CON R
+======================================================================
+
+[INFO] Proyecto : /home/fcqdevadmin/curso_ia 
+[INFO] Datos    : /home/fcqdevadmin/curso_ia/datos/raw/taxi 
+
+[OK] Directorio localizado correctamente.
+
+======================================================================
+ FICHEROS PARQUET LOCALIZADOS
+======================================================================
+
+[OK] Ficheros encontrados: 12 
+
+  yellow_tripdata_2024-01.parquet                 47.65 MB
+  yellow_tripdata_2024-02.parquet                 48.02 MB
+  yellow_tripdata_2024-03.parquet                 57.30 MB
+  yellow_tripdata_2024-04.parquet                 56.39 MB
+  yellow_tripdata_2024-05.parquet                 59.66 MB
+  yellow_tripdata_2024-06.parquet                 57.09 MB
+  yellow_tripdata_2024-07.parquet                 49.88 MB
+  yellow_tripdata_2024-08.parquet                 48.70 MB
+  yellow_tripdata_2024-09.parquet                 58.34 MB
+  yellow_tripdata_2024-10.parquet                 61.37 MB
+  yellow_tripdata_2024-11.parquet                 57.85 MB
+  yellow_tripdata_2024-12.parquet                 58.67 MB
+
+======================================================================
+ INSPECCION DETALLADA DEL PRIMER MES
+======================================================================
+
+[INFO] Cargando: yellow_tripdata_2024-01.parquet 
+
+[OK] Dataset cargado correctamente.
+
+---------------- DIMENSIONES ----------------
+Filas   : 2.964.624 
+Warning message:
+In prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  :
+  'big.mark' and 'decimal.mark' are both '.', which could be confusing
+Columnas: 19 
+
+---------------- COLUMNAS ----------------
+
+01. VendorID
+02. tpep_pickup_datetime
+03. tpep_dropoff_datetime
+04. passenger_count
+05. trip_distance
+06. RatecodeID
+07. store_and_fwd_flag
+08. PULocationID
+09. DOLocationID
+10. payment_type
+11. fare_amount
+12. extra
+13. mta_tax
+14. tip_amount
+15. tolls_amount
+16. improvement_surcharge
+17. total_amount
+18. congestion_surcharge
+19. Airport_fee
+
+---------------- ESTRUCTURA ----------------
+
+'data.frame':	2964624 obs. of  19 variables:
+ $ VendorID             : int  2 1 1 1 1 1 2 1 2 2 ...
+ $ tpep_pickup_datetime : POSIXct, format: "2024-01-01 01:57:55" "2024-01-01 01:03:00" ...
+ $ tpep_dropoff_datetime: POSIXct, format: "2024-01-01 02:17:43" "2024-01-01 01:09:36" ...
+ $ passenger_count      : int  1 1 1 1 1 1 2 0 1 1 ...
+ $ trip_distance        : num  1.72 1.8 4.7 1.4 0.8 ...
+ $ RatecodeID           : int  1 1 1 1 1 1 1 1 1 1 ...
+ $ store_and_fwd_flag   : chr  "N" "N" "N" "N" ...
+ $ PULocationID         : int  186 140 236 79 211 148 138 246 161 113 ...
+ $ DOLocationID         : int  79 236 79 211 148 141 181 231 261 113 ...
+ $ payment_type         : int  2 1 1 1 1 1 1 2 2 2 ...
+ $ fare_amount          : num  17.7 10 23.3 10 7.9 29.6 45.7 25.4 31 3 ...
+ $ extra                : num  1 3.5 3.5 3.5 3.5 3.5 6 3.5 1 1 ...
+ $ mta_tax              : num  0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 ...
+ $ tip_amount           : num  0 3.75 3 2 3.2 6.9 10 0 0 0 ...
+ $ tolls_amount         : num  0 0 0 0 0 0 0 0 0 0 ...
+ $ improvement_surcharge: num  1 1 1 1 1 1 1 1 1 1 ...
+ $ total_amount         : num  22.7 18.8 31.3 17 16.1 ...
+ $ congestion_surcharge : num  2.5 2.5 2.5 2.5 2.5 2.5 0 2.5 2.5 2.5 ...
+ $ Airport_fee          : num  0 0 0 0 0 0 1.75 0 0 0 ...
+
+---------------- PRIMERAS 10 FILAS ----------------
+
+   VendorID tpep_pickup_datetime tpep_dropoff_datetime passenger_count
+1         2  2024-01-01 01:57:55   2024-01-01 02:17:43               1
+2         1  2024-01-01 01:03:00   2024-01-01 01:09:36               1
+3         1  2024-01-01 01:17:06   2024-01-01 01:35:01               1
+4         1  2024-01-01 01:36:38   2024-01-01 01:44:56               1
+5         1  2024-01-01 01:46:51   2024-01-01 01:52:57               1
+6         1  2024-01-01 01:54:08   2024-01-01 02:26:31               1
+7         2  2024-01-01 01:49:44   2024-01-01 02:15:47               2
+8         1  2024-01-01 01:30:40   2024-01-01 01:58:40               0
+9         2  2024-01-01 01:26:01   2024-01-01 01:54:12               1
+10        2  2024-01-01 01:28:08   2024-01-01 01:29:16               1
+   trip_distance RatecodeID store_and_fwd_flag PULocationID DOLocationID
+1           1.72          1                  N          186           79
+2           1.80          1                  N          140          236
+3           4.70          1                  N          236           79
+4           1.40          1                  N           79          211
+5           0.80          1                  N          211          148
+6           4.70          1                  N          148          141
+7          10.82          1                  N          138          181
+8           3.00          1                  N          246          231
+9           5.44          1                  N          161          261
+10          0.04          1                  N          113          113
+   payment_type fare_amount extra mta_tax tip_amount tolls_amount
+1             2        17.7   1.0     0.5       0.00            0
+2             1        10.0   3.5     0.5       3.75            0
+3             1        23.3   3.5     0.5       3.00            0
+4             1        10.0   3.5     0.5       2.00            0
+5             1         7.9   3.5     0.5       3.20            0
+6             1        29.6   3.5     0.5       6.90            0
+7             1        45.7   6.0     0.5      10.00            0
+8             2        25.4   3.5     0.5       0.00            0
+9             2        31.0   1.0     0.5       0.00            0
+10            2         3.0   1.0     0.5       0.00            0
+   improvement_surcharge total_amount congestion_surcharge Airport_fee
+1                      1        22.70                  2.5        0.00
+2                      1        18.75                  2.5        0.00
+3                      1        31.30                  2.5        0.00
+4                      1        17.00                  2.5        0.00
+5                      1        16.10                  2.5        0.00
+6                      1        41.50                  2.5        0.00
+7                      1        64.95                  0.0        1.75
+8                      1        30.40                  2.5        0.00
+9                      1        36.00                  2.5        0.00
+10                     1         8.00                  2.5        0.00
+
+---------------- VALORES NULOS ----------------
+
+     passenger_count           RatecodeID   store_and_fwd_flag 
+              140162               140162               140162 
+congestion_surcharge          Airport_fee 
+              140162               140162 
+
+---------------- RESUMEN ESTADISTICO ----------------
+
+    VendorID     tpep_pickup_datetime          tpep_dropoff_datetime        
+ Min.   :1.000   Min.   :2002-12-31 23:59:39   Min.   :2003-01-01 00:05:41  
+ 1st Qu.:2.000   1st Qu.:2024-01-09 16:59:19   1st Qu.:2024-01-09 17:16:23  
+ Median :2.000   Median :2024-01-17 11:45:37   Median :2024-01-17 12:03:51  
+ Mean   :1.754   Mean   :2024-01-17 01:46:36   Mean   :2024-01-17 02:02:13  
+ 3rd Qu.:2.000   3rd Qu.:2024-01-24 19:23:52   3rd Qu.:2024-01-24 19:40:29  
+ Max.   :6.000   Max.   :2024-02-01 01:01:15   Max.   :2024-02-02 14:56:52  
+                                                                            
+ passenger_count  trip_distance         RatecodeID     store_and_fwd_flag
+ Min.   :0.000    Min.   :0.000e+00   Min.   : 1.000   Length:2964624    
+ 1st Qu.:1.000    1st Qu.:1.000e+00   1st Qu.: 1.000   Class :character  
+ Median :1.000    Median :1.680e+00   Median : 1.000   Mode  :character  
+ Mean   :1.339    Mean   :3.652e+00   Mean   : 2.069                     
+ 3rd Qu.:1.000    3rd Qu.:3.110e+00   3rd Qu.: 1.000                     
+ Max.   :9.000    Max.   :3.127e+05   Max.   :99.000                     
+ NA's   :140162                       NA's   :140162                     
+  PULocationID  DOLocationID    payment_type    fare_amount     
+ Min.   :  1   Min.   :  1.0   Min.   :0.000   Min.   :-899.00  
+ 1st Qu.:132   1st Qu.:114.0   1st Qu.:1.000   1st Qu.:   8.60  
+ Median :162   Median :162.0   Median :1.000   Median :  12.80  
+ Mean   :166   Mean   :165.1   Mean   :1.161   Mean   :  18.18  
+ 3rd Qu.:234   3rd Qu.:234.0   3rd Qu.:1.000   3rd Qu.:  20.50  
+ Max.   :265   Max.   :265.0   Max.   :4.000   Max.   :5000.00  
+                                                                
+     extra           mta_tax          tip_amount       tolls_amount    
+ Min.   :-7.500   Min.   :-0.5000   Min.   :-80.000   Min.   :-80.000  
+ 1st Qu.: 0.000   1st Qu.: 0.5000   1st Qu.:  1.000   1st Qu.:  0.000  
+ Median : 1.000   Median : 0.5000   Median :  2.700   Median :  0.000  
+ Mean   : 1.452   Mean   : 0.4834   Mean   :  3.336   Mean   :  0.527  
+ 3rd Qu.: 2.500   3rd Qu.: 0.5000   3rd Qu.:  4.120   3rd Qu.:  0.000  
+ Max.   :14.250   Max.   : 4.0000   Max.   :428.000   Max.   :115.920  
+                                                                       
+ improvement_surcharge  total_amount     congestion_surcharge  Airport_fee    
+ Min.   :-1.0000       Min.   :-900.00   Min.   :-2.500       Min.   :-1.750  
+ 1st Qu.: 1.0000       1st Qu.:  15.38   1st Qu.: 2.500       1st Qu.: 0.000  
+ Median : 1.0000       Median :  20.10   Median : 2.500       Median : 0.000  
+ Mean   : 0.9756       Mean   :  26.80   Mean   : 2.256       Mean   : 0.141  
+ 3rd Qu.: 1.0000       3rd Qu.:  28.56   3rd Qu.: 2.500       3rd Qu.: 0.000  
+ Max.   : 1.0000       Max.   :5000.00   Max.   : 2.500       Max.   : 1.750  
+                                         NA's   :140162       NA's   :140162  
+
+---------------- MEMORIA ----------------
+
+Tamano aproximado en memoria: 361.9 Mb 
+
+======================================================================
+ VARIABLES IMPORTANTES PARA LOS EJERCICIOS
+======================================================================
+
+[OK] tpep_pickup_datetime
+[OK] tpep_dropoff_datetime
+[OK] passenger_count
+[OK] trip_distance
+[OK] PULocationID
+[OK] DOLocationID
+[OK] payment_type
+[OK] fare_amount
+[OK] tip_amount
+[OK] total_amount
+
+======================================================================
+ COMPROBACION DE TODOS LOS MESES
+======================================================================
+
+[INFO] Inspeccionando: yellow_tripdata_2024-01.parquet 
+       Filas   : 2.964.624 
+       Columnas: 19 
+       Tamano   : 47.65 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-02.parquet 
+       Filas   : 3.007.526 
+       Columnas: 19 
+       Tamano   : 48.02 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-03.parquet 
+       Filas   : 3.582.628 
+       Columnas: 19 
+       Tamano   : 57.30 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-04.parquet 
+       Filas   : 3.514.289 
+       Columnas: 19 
+       Tamano   : 56.39 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-05.parquet 
+       Filas   : 3.723.833 
+       Columnas: 19 
+       Tamano   : 59.66 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-06.parquet 
+       Filas   : 3.539.193 
+       Columnas: 19 
+       Tamano   : 57.09 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-07.parquet 
+       Filas   : 3.076.903 
+       Columnas: 19 
+       Tamano   : 49.88 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-08.parquet 
+       Filas   : 2.979.183 
+       Columnas: 19 
+       Tamano   : 48.70 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-09.parquet 
+       Filas   : 3.633.030 
+       Columnas: 19 
+       Tamano   : 58.34 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-10.parquet 
+       Filas   : 3.833.771 
+       Columnas: 19 
+       Tamano   : 61.37 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-11.parquet 
+       Filas   : 3.646.369 
+       Columnas: 19 
+       Tamano   : 57.85 MB
+[INFO] Inspeccionando: yellow_tripdata_2024-12.parquet 
+       Filas   : 3.668.371 
+       Columnas: 19 
+       Tamano   : 58.67 MB
+There were 12 warnings (use warnings() to see them)
+
+======================================================================
+ RESUMEN DE LOS DATASETS
+======================================================================
+
+                         archivo   filas columnas tamano_mb
+ yellow_tripdata_2024-01.parquet 2964624       19     47.65
+ yellow_tripdata_2024-02.parquet 3007526       19     48.02
+ yellow_tripdata_2024-03.parquet 3582628       19     57.30
+ yellow_tripdata_2024-04.parquet 3514289       19     56.39
+ yellow_tripdata_2024-05.parquet 3723833       19     59.66
+ yellow_tripdata_2024-06.parquet 3539193       19     57.09
+ yellow_tripdata_2024-07.parquet 3076903       19     49.88
+ yellow_tripdata_2024-08.parquet 2979183       19     48.70
+ yellow_tripdata_2024-09.parquet 3633030       19     58.34
+ yellow_tripdata_2024-10.parquet 3833771       19     61.37
+ yellow_tripdata_2024-11.parquet 3646369       19     57.85
+ yellow_tripdata_2024-12.parquet 3668371       19     58.67
+
+Total registros encontrados: 41.169.720Warning message:
+In prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  :
+  'big.mark' and 'decimal.mark' are both '.', which could be confusing
+
+
+======================================================================
+ TAXI ZONE LOOKUP
+======================================================================
+
+[OK] Lookup encontrado.
+Filas   : 265 
+Columnas: 4 
+
+Nombres de columnas:
+[1] "LocationID"   "Borough"      "Zone"         "service_zone"
+
+Primeras 10 zonas:
+
+ LocationID       Borough                    Zone service_zone
+          1           EWR          Newark Airport          EWR
+          2        Queens             Jamaica Bay    Boro Zone
+          3         Bronx Allerton/Pelham Gardens    Boro Zone
+          4     Manhattan           Alphabet City  Yellow Zone
+          5 Staten Island           Arden Heights    Boro Zone
+          6 Staten Island Arrochar/Fort Wadsworth    Boro Zone
+          7        Queens                 Astoria    Boro Zone
+          8        Queens            Astoria Park    Boro Zone
+          9        Queens              Auburndale    Boro Zone
+         10        Queens            Baisley Park    Boro Zone
+
+======================================================================
+ INSPECCION R FINALIZADA
+======================================================================
+
+[OK] Resumen guardado en:
+/home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/resumen_datasets_taxi_R.csv
+
+Ya tenemos el dataset preparado para construir R1-R8.
+======================================================================
+

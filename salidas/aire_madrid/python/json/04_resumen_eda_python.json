@@ -1,0 +1,107 @@
+{
+    "dataset": {
+        "ruta": "/home/fcqdevadmin/curso_ia/datos/processed/aire_madrid/calidad_aire_madrid_procesado.csv",
+        "registros": 42273,
+        "columnas": 12,
+        "sha256_antes": "6ec8fc262a122d5e3657b7c671f79a8a16e9440601264c849b46314b6f173d77",
+        "sha256_despues": "6ec8fc262a122d5e3657b7c671f79a8a16e9440601264c849b46314b6f173d77",
+        "modificado": false
+    },
+    "cobertura": {
+        "fecha_minima": "2024-01-01 00:00:00",
+        "fecha_maxima": "2024-11-30 00:00:00",
+        "estaciones": 24,
+        "magnitudes": 11,
+        "puntos_muestreo": 131
+    },
+    "resultados": {
+        "tablas_csv_generadas": 6,
+        "graficos_png_generados": 7,
+        "atipicos_iqr_conservados": 2577
+    },
+    "hallazgos": {
+        "registros": 42273,
+        "fecha_minima": "2024-01-01",
+        "fecha_maxima": "2024-11-30",
+        "estaciones": 24,
+        "magnitudes": 11,
+        "puntos_muestreo": 131,
+        "atipicos_iqr": 2577,
+        "porcentaje_atipicos_iqr": 6.0961,
+        "magnitud_con_mas_atipicos": {
+            "magnitud": 7,
+            "cantidad": 1109
+        },
+        "magnitud_con_mayor_porcentaje_atipicos": {
+            "magnitud": 7,
+            "porcentaje": 13.8625
+        },
+        "mayor_valor_observado": {
+            "magnitud": 12,
+            "valor": 358.0
+        },
+        "mes_con_mayor_mediana_por_magnitud": [
+            {
+                "magnitud": 1,
+                "mes_mayor_mediana": 4,
+                "mediana": 3.0
+            },
+            {
+                "magnitud": 6,
+                "mes_mayor_mediana": 1,
+                "mediana": 0.4
+            },
+            {
+                "magnitud": 7,
+                "mes_mayor_mediana": 1,
+                "mediana": 13.0
+            },
+            {
+                "magnitud": 8,
+                "mes_mayor_mediana": 1,
+                "mediana": 36.0
+            },
+            {
+                "magnitud": 9,
+                "mes_mayor_mediana": 8,
+                "mediana": 11.0
+            },
+            {
+                "magnitud": 10,
+                "mes_mayor_mediana": 8,
+                "mediana": 26.0
+            },
+            {
+                "magnitud": 12,
+                "mes_mayor_mediana": 1,
+                "mediana": 58.0
+            },
+            {
+                "magnitud": 14,
+                "mes_mayor_mediana": 8,
+                "mediana": 90.0
+            },
+            {
+                "magnitud": 20,
+                "mes_mayor_mediana": 11,
+                "mediana": 2.9
+            },
+            {
+                "magnitud": 30,
+                "mes_mayor_mediana": 1,
+                "mediana": 0.7
+            },
+            {
+                "magnitud": 35,
+                "mes_mayor_mediana": 2,
+                "mediana": 0.3
+            }
+        ],
+        "criterio_atipicos": "Los posibles atípicos IQR se conservan. Su presencia no implica automáticamente un error de medición.",
+        "limitacion_temporal": "El dataset procesado disponible termina el 30 de noviembre de 2024."
+    },
+    "ejecucion": {
+        "inicio": "2026-11-17T07:39:21.201012",
+        "fin": "2026-11-17T07:39:25.936448"
+    }
+}

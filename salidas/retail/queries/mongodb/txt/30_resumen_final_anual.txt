@@ -1,0 +1,3 @@
+{"lineas":45228,"unidades_vendidas":445861,"anio":2009,"facturas":2330,"clientes":1046,"productos":3141,"paises":24,"facturas_canceladas":401,"facturacion":825685.76}
+{"lineas":522714,"unidades_vendidas":5928042,"anio":2010,"facturas":27423,"clientes":4290,"productos":4509,"paises":40,"facturas_canceladas":4381,"facturacion":10303952.4}
+{"lineas":499429,"unidades_vendidas":5298666,"anio":2011,"facturas":23875,"clientes":4245,"productos":3993,"paises":37,"facturas_canceladas":3510,"facturacion":9842956.4}

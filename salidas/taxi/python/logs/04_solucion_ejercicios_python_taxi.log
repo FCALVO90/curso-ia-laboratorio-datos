@@ -1,0 +1,177 @@
+/home/fcqdevadmin/curso_ia/src/python/solucion_ejercicios_python_taxi.py:118: UserWarning: numexpr version '2.14.1' can silently return incorrect results and will not be used by pandas. Install numexpr 2.14.2 or newer to re-enable numexpr acceleration.
+  d["duracion_min"] = (d["tpep_dropoff_datetime"] - d["tpep_pickup_datetime"]).dt.total_seconds() / 60
+/home/fcqdevadmin/curso_ia/src/python/solucion_ejercicios_python_taxi.py:122: Pandas4Warning: Series.dt.dayofweek is deprecated and will be removed in a future version. Use Series.dt.day_of_week instead.
+  d["dia_semana_num"] = d["tpep_pickup_datetime"].dt.dayofweek
+
+==============================================================================
+ INICIO - SOLUCION EJERCICIOS PYTHON NYC TAXI
+==============================================================================
+Datos: /home/fcqdevadmin/curso_ia/datos/raw/taxi
+CSV: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv
+Graficos: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos
+JSON: /home/fcqdevadmin/curso_ia/salidas/taxi/python/json
+HTML: /home/fcqdevadmin/curso_ia/salidas/taxi/python/html
+Ejercicios: P1, P2, P3, P4, P5, P6, P7, P8
+[OK] yellow_tripdata_2024-01.parquet: 2,964,624 filas en 0.18 s
+
+==============================================================================
+ P1 - DESCARGAR, LEER Y MIRAR EL DATO
+==============================================================================
+Dimensiones: 2,964,624 filas x 19 columnas
+
+Tipos:
+ VendorID                          int32
+tpep_pickup_datetime     datetime64[us]
+tpep_dropoff_datetime    datetime64[us]
+passenger_count                 float64
+trip_distance                   float64
+RatecodeID                      float64
+store_and_fwd_flag                  str
+PULocationID                      int32
+DOLocationID                      int32
+payment_type                      int64
+fare_amount                     float64
+extra                           float64
+mta_tax                         float64
+tip_amount                      float64
+tolls_amount                    float64
+improvement_surcharge           float64
+total_amount                    float64
+congestion_surcharge            float64
+Airport_fee                     float64
+dtype: object
+
+Memoria profunda: 398.62 MB
+
+Resumen por tipo de pago:
+  payment_type  viajes  distancia_media  importe_medio
+            0  140162        11.674403      25.811737
+            1 2319046         3.264649      28.258861
+            2  439191         3.259126      22.884506
+            3   19597         2.159218       8.755475
+            4   46628         3.140549       1.773829
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/P1_resumen_pago_2024-01.csv
+[EXTRA] Lectura de 5 columnas: 0.06 s; memoria 113.09 MB
+
+==============================================================================
+ P2 - CALIDAD DEL DATO CON PANDAS
+==============================================================================
+
+Nulos:
+                        nulos  porcentaje
+RatecodeID            140162    4.727817
+passenger_count       140162    4.727817
+store_and_fwd_flag    140162    4.727817
+congestion_surcharge  140162    4.727817
+Airport_fee           140162    4.727817
+velocidad_mph            870    0.029346
+
+Anomalias:
+                         casos
+pasajeros_0_o_na       171627
+distancia_no_positiva   60371
+tarifa_no_positiva      38341
+importe_no_positivo     35920
+duracion_no_positiva      870
+duracion_mayor_24h         16
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/P2_calidad_2024-01.csv
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/P2_anomalias_2024-01.csv
+
+Memoria antes: 624.07 MB
+Memoria despues: 553.41 MB
+Ahorro: 11.32%
+Viajes validos: 2,869,574; descartados: 95,050 (3.21%)
+
+==============================================================================
+ P3 - VISUALIZACION CON MATPLOTLIB Y SEABORN
+==============================================================================
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/P3_panel_exploratorio_2024-01.png
+
+==============================================================================
+ P4 - SERIES TEMPORALES CON RESAMPLE
+==============================================================================
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/P4_series_temporales_2024-01.png
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/P4_viajes_diarios_2024-01.csv
+
+==============================================================================
+ P5 - CRUCE CON ZONAS
+==============================================================================
+
+Top 15 rutas:
+ borough_origen                  zona_origen borough_destino              zona_destino  viajes  importe_medio
+     Manhattan        Upper East Side South       Manhattan     Upper East Side North   21641      15.739360
+     Manhattan        Upper East Side North       Manhattan     Upper East Side South   19199      16.080446
+     Manhattan        Upper East Side North       Manhattan     Upper East Side North   15193      13.216585
+     Manhattan        Upper East Side South       Manhattan     Upper East Side South   14112      13.824819
+     Manhattan               Midtown Center       Manhattan     Upper East Side South   10139      17.058740
+     Manhattan          Lincoln Square East       Manhattan     Upper West Side South    8827      14.977664
+     Manhattan        Upper East Side South       Manhattan            Midtown Center    8718      16.476906
+     Manhattan               Midtown Center       Manhattan     Upper East Side North    8664      21.885354
+     Manhattan        Upper West Side South       Manhattan       Lincoln Square East    8543      14.583848
+     Manhattan        Upper West Side South       Manhattan     Upper West Side North    8306      13.835325
+     Manhattan              Lenox Hill West       Manhattan     Upper East Side North    7693      15.950227
+     Manhattan        Upper East Side South       Manhattan              Midtown East    7506      16.092236
+     Manhattan        Upper East Side North       Manhattan            Midtown Center    7045      21.417329
+     Manhattan          Lincoln Square East       Manhattan     Upper West Side North    6991      17.424680
+     Manhattan Penn Station/Madison Sq West       Manhattan Times Sq/Theatre District    6948      18.825920
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/P5_top_rutas_2024-01.csv
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/P5_matriz_boroughs_2024-01.csv
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/P5_zonas_y_boroughs_2024-01.png
+[EXTRA] Viajes con origen y destino en la misma zona: 4.52%
+
+==============================================================================
+ P6 - MAPAS CON GEOPANDAS
+==============================================================================
+CRS original: EPSG:2263
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/P6_mapas_estaticos_2024-01.png
+[OK] Mapa interactivo: /home/fcqdevadmin/curso_ia/salidas/taxi/python/html/P6_mapa_interactivo_2024-01.html
+
+==============================================================================
+ P7 - PREDECIR LA PROPINAS CON SCIKIT-LEARN
+==============================================================================
+              modelo   cv_rmse  test_rmse  test_r2
+    Regresion lineal 10.222985  10.109277 0.114286
+HistGradientBoosting  9.590915   9.442561 0.227261
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/P7_metricas_2024-01.csv
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/P7_diagnostico_modelo_2024-01.png
+
+==============================================================================
+ P8 - GRAN VOLUMEN Y PANEL ANUAL
+==============================================================================
+[OK] Mes 01 procesado por lotes
+[OK] Mes 02 procesado por lotes
+[OK] Mes 03 procesado por lotes
+[OK] Mes 04 procesado por lotes
+[OK] Mes 05 procesado por lotes
+[OK] Mes 06 procesado por lotes
+[OK] Mes 07 procesado por lotes
+[OK] Mes 08 procesado por lotes
+[OK] Mes 09 procesado por lotes
+[OK] Mes 10 procesado por lotes
+[OK] Mes 11 procesado por lotes
+[OK] Mes 12 procesado por lotes
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv/P8_resumen_anual_2024.csv
+mes  viajes  propina_media  velocidad_media_mph  importe_medio  z_robusto_viajes  mes_atipico
+ 01 2869591       3.401995            11.510696      27.347108         -2.851753        False
+ 02 2901418       3.382440            11.147860      27.240331         -2.690931        False
+ 03 3439861       3.284021            11.172923      27.863902          0.029823        False
+ 04 3414065       3.285304            11.084861      28.193817         -0.100524        False
+ 05 3616279       3.378100            10.639879      29.006453          0.921263        False
+ 06 3428057       3.312426            10.888224      28.694368         -0.029823        False
+ 07 2973791       3.329196            11.382903      28.989375         -2.325230        False
+ 08 2867225       3.337264            11.482521      29.235843         -2.863708        False
+ 09 3483677       3.401764            10.546178      29.493519          0.251225        False
+ 10 3681696       3.516938            10.498027      29.389540          1.251816        False
+ 11 3509831       3.398177            10.461009      28.588041          0.383381        False
+ 12 3518609       3.550193            10.108375      29.386050          0.427737        False
+Pico aproximado medido por tracemalloc: 21.06 MB
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos/P8_panel_anual_2024.png
+Hallazgos: {"mes_mas_viajes": "10", "mes_mayor_propina_media": "12", "mes_mayor_velocidad_media": "01", "meses_atipicos": []}
+
+==============================================================================
+ FIN - TODOS LOS EJERCICIOS SOLICITADOS HAN TERMINADO
+==============================================================================
+CSV generados: /home/fcqdevadmin/curso_ia/salidas/taxi/python/csv
+Graficos generados: /home/fcqdevadmin/curso_ia/salidas/taxi/python/graficos
+JSON generados: /home/fcqdevadmin/curso_ia/salidas/taxi/python/json
+HTML generados: /home/fcqdevadmin/curso_ia/salidas/taxi/python/html

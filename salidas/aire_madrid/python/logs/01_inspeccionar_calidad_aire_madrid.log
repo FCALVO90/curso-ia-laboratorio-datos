@@ -1,0 +1,57 @@
+2026-11-17 07:39:19 | INFO | ===============================================================================
+2026-11-17 07:39:19 | INFO | INICIO DE LA INSPECCIÓN DEL DATASET DE CALIDAD DEL AIRE
+2026-11-17 07:39:19 | INFO | ===============================================================================
+2026-11-17 07:39:19 | INFO | Proyecto: /home/fcqdevadmin/curso_ia
+2026-11-17 07:39:19 | INFO | Fichero RAW: /home/fcqdevadmin/curso_ia/datos/raw/aire_madrid/calidad_aire_madrid.csv
+2026-11-17 07:39:19 | INFO | Tamaño del fichero: 260632 bytes
+2026-11-17 07:39:19 | INFO | El fichero RAW existe y será abierto únicamente para lectura.
+2026-11-17 07:39:19 | INFO | Leyendo CSV con separador ';'...
+2026-11-17 07:39:19 | INFO | Lectura completada correctamente.
+2026-11-17 07:39:19 | INFO | Número de registros: 1411
+2026-11-17 07:39:19 | INFO | Número de columnas: 69
+2026-11-17 07:39:19 | INFO | Columnas base: 7
+2026-11-17 07:39:19 | INFO | Columnas Dxx: 31
+2026-11-17 07:39:19 | INFO | Columnas Vxx: 31
+2026-11-17 07:39:19 | INFO | Columnas esperadas totales: 69
+2026-11-17 07:39:19 | INFO | Están presentes todas las columnas esperadas.
+2026-11-17 07:39:19 | INFO | No se han detectado columnas adicionales.
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/01_muestra_raw.csv
+2026-11-17 07:39:19 | INFO | Primeros cinco registros:
+2026-11-17 07:39:19 | INFO | 
+PROVINCIA MUNICIPIO  ESTACION  MAGNITUD PUNTO_MUESTREO  ANO  MES  D01 V01  D02 V02  D03 V03  D04 V04  D05 V05  D06 V06  D07 V07  D08 V08  D09 V09  D10 V10  D11 V11  D12 V12  D13 V13  D14 V14  D15 V15  D16 V16  D17 V17  D18 V18  D19 V19  D20 V20  D21 V21  D22 V22  D23 V23  D24 V24  D25 V25  D26 V26  D27 V27  D28 V28  D29 V29  D30 V30  D31 V31
+       28       079         4         6  28079004_6_48 2024    1  0.5   V  0.6   V  0.4   V  0.4   V  0.3   V  0.4   V  0.5   V  0.6   V  0.4   V  0.4   V  0.5   V  0.5   V  0.6   V  0.6   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.4   V  0.5   V  0.6   V  0.7   V  0.9   V  0.9   V  0.9   V  0.6   V  0.5   V  0.6   V  0.7   V  0.7   V
+       28       079         4         6  28079004_6_48 2024    2  0.6   V  0.5   V  0.5   V  0.5   V  0.7   V  0.6   V  0.4   V  0.4   V  0.3   V  0.3   V  0.4   V  0.3   V  0.4   V  0.5   V  0.5   V  0.4   V  0.5   V  0.5   V  0.6   V  0.5   V  0.5   V  0.3   V  0.4   V  0.4   V  0.3   V  0.3   V  0.4   V  0.5   V  0.5   V  0.0   N  0.0   N
+       28       079         4         6  28079004_6_48 2024    3  0.4   V  0.3   V  0.3   V  0.3   V  0.4   V  0.5   V  0.4   V  0.3   V  0.3   V  0.3   V  0.3   V  0.5   V  0.5   V  0.4   V  0.4   V  0.4   V  0.4   V  0.5   V  0.5   V  0.4   V  0.4   N  0.4   V  0.4   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V
+       28       079         4         6  28079004_6_48 2024    4  0.3   V  0.4   V  0.3   V  0.4   V  0.4   V  0.4   V  0.3   V  0.3   V  0.3   V  0.3   V  0.4   V  0.4   V  0.4   V  0.4   V  0.4   V  0.4   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.4   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.0   N
+       28       079         4         6  28079004_6_48 2024    5  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.4   V  0.4   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.3   V  0.2   V
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/02_perfil_columnas_raw.csv
+2026-11-17 07:39:19 | INFO | Número total de valores nulos: 0
+2026-11-17 07:39:19 | INFO | Filas completamente duplicadas: 0
+2026-11-17 07:39:19 | INFO | Filas implicadas en duplicados de clave mensual: 0
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/03_duplicados_completos_raw.csv
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/04_resumen_dimensiones_raw.csv
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/05_registros_por_estacion_raw.csv
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/06_registros_por_magnitud_raw.csv
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/07_registros_por_mes_raw.csv
+2026-11-17 07:39:19 | INFO | Convirtiendo temporalmente el dataset a formato largo...
+2026-11-17 07:39:19 | INFO | Filas generadas en formato largo: 43741
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/08_indicadores_validez_raw.csv
+2026-11-17 07:39:19 | INFO | Indicadores de validez encontrados: ['N', 'V']
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/09_fechas_imposibles_raw.csv
+2026-11-17 07:39:19 | INFO | Registros correspondientes a fechas imposibles: 768
+2026-11-17 07:39:19 | INFO | Mediciones válidas con fecha válida: 42273
+2026-11-17 07:39:19 | INFO | Registros con fecha válida pero indicador distinto de V: 700
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/10_muestra_mediciones_validas_raw.csv
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/11_muestra_mediciones_no_validas_raw.csv
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/12_estadisticos_por_magnitud_raw.csv
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/13_valores_negativos_validos_raw.csv
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/14_ceros_marcados_validos_raw.csv
+2026-11-17 07:39:19 | INFO | Valores negativos marcados como válidos: 0
+2026-11-17 07:39:19 | INFO | Valores cero marcados como válidos: 0
+2026-11-17 07:39:19 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/15_calendario_meses_dataset.csv
+2026-11-17 07:39:19 | INFO | JSON generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/json/01_resumen_inspeccion_raw.json
+2026-11-17 07:39:19 | INFO | ===============================================================================
+2026-11-17 07:39:19 | INFO | INSPECCIÓN COMPLETADA CORRECTAMENTE
+2026-11-17 07:39:19 | INFO | Duración: 0.16 segundos
+2026-11-17 07:39:19 | INFO | El fichero RAW no ha sido modificado.
+2026-11-17 07:39:19 | INFO | ===============================================================================

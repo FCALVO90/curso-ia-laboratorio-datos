@@ -1,0 +1,1 @@
+{"total_filas":1067371,"cantidad_negativa":22950,"cantidad_cero":0,"precio_negativo":5,"precio_cero":6202,"importe_negativo":19498,"lineas_canceladas":19494}

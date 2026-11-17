@@ -1,0 +1,5 @@
+ registros | nulos_provincia | nulos_municipio | nulos_estacion | nulos_magnitud | nulos_punto_muestreo | nulos_fecha | nulos_valor | indicadores_no_validos | valores_negativos | atipicos_iqr | porcentaje_atipicos 
+-----------+-----------------+-----------------+----------------+----------------+----------------------+-------------+-------------+------------------------+-------------------+--------------+---------------------
+     42273 |               0 |               0 |              0 |              0 |                    0 |           0 |           0 |                      0 |                 0 |         2577 |              6.0961
+(1 row)
+

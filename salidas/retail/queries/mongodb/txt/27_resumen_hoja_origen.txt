@@ -1,0 +1,2 @@
+{"total_lineas":525461,"primera_fecha":{"$date":"2009-12-01T07:45:00Z"},"ultima_fecha":{"$date":"2010-12-09T20:01:00Z"},"hoja_origen":"Year 2009-2010","facturas":28816,"clientes":4384,"productos":4631,"importe_total":9539484.63}
+{"total_lineas":541910,"primera_fecha":{"$date":"2010-12-01T08:26:00Z"},"ultima_fecha":{"$date":"2011-12-09T12:50:00Z"},"hoja_origen":"Year 2010-2011","facturas":25900,"clientes":4373,"productos":4070,"importe_total":9747765.93}

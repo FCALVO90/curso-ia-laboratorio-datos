@@ -1,0 +1,234 @@
+[1] "C"
+
+==============================================================================
+ INICIO - SOLUCION EJERCICIOS R NYC TAXI
+==============================================================================
+Datos: /home/fcqdevadmin/curso_ia/datos/raw/taxi 
+CSV: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv 
+Graficos: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos 
+JSON: /home/fcqdevadmin/curso_ia/salidas/taxi/r/json 
+Ejercicios: R1, R2, R3, R4, R5, R6, R7, R8 
+[OK] yellow_tripdata_2024-01.parquet: 2.964.624 filas en 1.65 s
+
+==============================================================================
+ R1 - DESCARGAR, LEER Y MIRAR EL DATO
+==============================================================================
+Dimensiones: 2.964.624 filas x 19 columnas
+$VendorID
+[1] "integer"
+
+$tpep_pickup_datetime
+[1] "POSIXct" "POSIXt" 
+
+$tpep_dropoff_datetime
+[1] "POSIXct" "POSIXt" 
+
+$passenger_count
+[1] "integer"
+
+$trip_distance
+[1] "numeric"
+
+$RatecodeID
+[1] "integer"
+
+$store_and_fwd_flag
+[1] "character"
+
+$PULocationID
+[1] "integer"
+
+$DOLocationID
+[1] "integer"
+
+$payment_type
+[1] "integer"
+
+$fare_amount
+[1] "numeric"
+
+$extra
+[1] "numeric"
+
+$mta_tax
+[1] "numeric"
+
+$tip_amount
+[1] "numeric"
+
+$tolls_amount
+[1] "numeric"
+
+$improvement_surcharge
+[1] "numeric"
+
+$total_amount
+[1] "numeric"
+
+$congestion_surcharge
+[1] "numeric"
+
+$Airport_fee
+[1] "numeric"
+
+Memoria: 361.9 MB
+   payment_type  viajes distancia_media importe_medio
+          <int>   <int>           <num>         <num>
+1:            2  439191        3.259126     22.884506
+2:            1 2319046        3.264649     28.258861
+3:            4   46628        3.140549      1.773829
+4:            3   19597        2.159218      8.755475
+5:            0  140162       11.674403     25.811737
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R1_resumen_pago_2024-01.csv 
+[EXTRA] Lectura de 5 columnas: 0.18 s; memoria 101.78 MB
+
+==============================================================================
+ R2 - CALIDAD DEL DATO CON R
+==============================================================================
+                columna  nulos porcentaje
+                 <char>  <int>      <num>
+1:      passenger_count 140162 4.72781709
+2:           RatecodeID 140162 4.72781709
+3:   store_and_fwd_flag 140162 4.72781709
+4: congestion_surcharge 140162 4.72781709
+5:          Airport_fee 140162 4.72781709
+6:        velocidad_mph    870 0.02934605
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R2_calidad_2024-01.csv 
+                   regla  casos
+                  <char>  <int>
+1:      pasajeros_0_o_na 171627
+2: distancia_no_positiva  60371
+3:    tarifa_no_positiva  38341
+4:   importe_no_positivo  35920
+5:  duracion_no_positiva    870
+6:    duracion_mayor_24h     16
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R2_anomalias_2024-01.csv 
+Viajes validos: 2.869.574 ; descartados: 95.050 
+
+==============================================================================
+ R3 - VISUALIZACION CON GGPLOT2
+==============================================================================
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos/R3_panel_exploratorio_2024-01.png 
+
+==============================================================================
+ R4 - SERIES TEMPORALES
+==============================================================================
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos/R4_series_temporales_2024-01.png 
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R4_viajes_diarios_2024-01.csv 
+Warning message:
+Removed 23 rows containing missing values or values outside the scale range
+(`geom_line()`). 
+
+==============================================================================
+ R5 - CRUCE CON ZONAS
+==============================================================================
+    borough_origen                  zona_origen borough_destino
+            <char>                       <char>          <char>
+ 1:      Manhattan        Upper East Side South       Manhattan
+ 2:      Manhattan        Upper East Side North       Manhattan
+ 3:      Manhattan        Upper East Side North       Manhattan
+ 4:      Manhattan        Upper East Side South       Manhattan
+ 5:      Manhattan               Midtown Center       Manhattan
+ 6:      Manhattan          Lincoln Square East       Manhattan
+ 7:      Manhattan        Upper East Side South       Manhattan
+ 8:      Manhattan               Midtown Center       Manhattan
+ 9:      Manhattan        Upper West Side South       Manhattan
+10:      Manhattan        Upper West Side South       Manhattan
+11:      Manhattan              Lenox Hill West       Manhattan
+12:      Manhattan        Upper East Side South       Manhattan
+13:      Manhattan        Upper East Side North       Manhattan
+14:      Manhattan          Lincoln Square East       Manhattan
+15:      Manhattan Penn Station/Madison Sq West       Manhattan
+                 zona_destino viajes importe_medio
+                       <char>  <int>         <num>
+ 1:     Upper East Side North  21641      15.73936
+ 2:     Upper East Side South  19199      16.08045
+ 3:     Upper East Side North  15193      13.21659
+ 4:     Upper East Side South  14112      13.82482
+ 5:     Upper East Side South  10139      17.05874
+ 6:     Upper West Side South   8827      14.97766
+ 7:            Midtown Center   8718      16.47691
+ 8:     Upper East Side North   8664      21.88535
+ 9:       Lincoln Square East   8543      14.58385
+10:     Upper West Side North   8306      13.83533
+11:     Upper East Side North   7693      15.95023
+12:              Midtown East   7506      16.09224
+13:            Midtown Center   7045      21.41733
+14:     Upper West Side North   6991      17.42468
+15: Times Sq/Theatre District   6948      18.82592
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R5_top_rutas_2024-01.csv 
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R5_matriz_boroughs_2024-01.csv 
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos/R5_zonas_2024-01.png 
+[EXTRA] Misma zona: 4.52%
+
+==============================================================================
+ R6 - MAPAS CON SF
+==============================================================================
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos/R6_mapa_viajes_2024-01.png 
+
+==============================================================================
+ R7 - MODELO DE PROPINAS
+==============================================================================
+             modelo test_rmse   test_r2
+             <char>     <num>     <num>
+1: Regresion lineal 10.098847 0.1121254
+2:           Ranger  9.513026 0.2121465
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R7_metricas_2024-01.csv 
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R7_importancia_2024-01.csv 
+
+==============================================================================
+ R8 - GRAN VOLUMEN Y PANEL ANUAL
+==============================================================================
+[OK] Mes 01 procesado
+[OK] Mes 02 procesado
+[OK] Mes 03 procesado
+[OK] Mes 04 procesado
+[OK] Mes 05 procesado
+[OK] Mes 06 procesado
+[OK] Mes 07 procesado
+[OK] Mes 08 procesado
+[OK] Mes 09 procesado
+[OK] Mes 10 procesado
+[OK] Mes 11 procesado
+[OK] Mes 12 procesado
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/R8_resumen_anual_2024.csv 
+[OK] Figura guardada: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos/R8_panel_anual_2024.png 
+Index: <mes_atipico>
+       mes  viajes propina_media velocidad_media_mph importe_medio
+    <char>   <int>         <num>               <num>         <num>
+ 1:     01 2869591      3.401995            11.51070      27.34711
+ 2:     02 2901418      3.382440            11.14786      27.24033
+ 3:     03 3439861      3.284021            11.17292      27.86390
+ 4:     04 3414065      3.285304            11.08486      28.19382
+ 5:     05 3616279      3.378100            10.63988      29.00645
+ 6:     06 3428057      3.312426            10.88822      28.69437
+ 7:     07 2973791      3.329196            11.38290      28.98937
+ 8:     08 2867225      3.337264            11.48252      29.23584
+ 9:     09 3483677      3.401764            10.54618      29.49352
+10:     10 3681696      3.516938            10.49803      29.38954
+11:     11 3509831      3.398177            10.46101      28.58804
+12:     12 3518609      3.550193            10.10838      29.38605
+    z_robusto_viajes mes_atipico
+               <num>      <lgcl>
+ 1:      -2.85175275       FALSE
+ 2:      -2.69093085       FALSE
+ 3:       0.02982282       FALSE
+ 4:      -0.10052443       FALSE
+ 5:       0.92126336       FALSE
+ 6:      -0.02982282       FALSE
+ 7:      -2.32522992       FALSE
+ 8:      -2.86370815       FALSE
+ 9:       0.25122516       FALSE
+10:       1.25181561       FALSE
+11:       0.38338138       FALSE
+12:       0.42773664       FALSE
+Warning message:
+In melt.data.table(anual, id.vars = "mes", measure.vars = c("viajes",  :
+  'measure.vars' [viajes, propina_media, velocidad_media_mph, importe_medio, ...] are not all of the same type. By order of hierarchy, the molten data value column will be of type 'double'. All measure variables not of type 'double' will be coerced too. Check DETAILS in ?melt.data.table for more on coercion.
+
+==============================================================================
+ FIN - EJERCICIOS R FINALIZADOS
+==============================================================================
+CSV: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv 
+Graficos: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos 
+JSON: /home/fcqdevadmin/curso_ia/salidas/taxi/r/json 

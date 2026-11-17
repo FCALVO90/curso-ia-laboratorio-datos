@@ -1,0 +1,13 @@
+COLUMNA,TIPO,NULOS,UNICOS
+provincia,string,0,1
+municipio,string,0,1
+estacion,Int64,0,24
+magnitud,Int64,0,11
+punto_muestreo,string,0,131
+anio,Int64,0,1
+mes,Int64,0,11
+dia,Int64,0,31
+fecha,datetime64[us],0,335
+valor,float64,0,283
+indicador_validez,string,0,1
+es_atipico_iqr,bool,0,2

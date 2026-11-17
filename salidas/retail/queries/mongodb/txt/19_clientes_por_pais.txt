@@ -1,0 +1,41 @@
+{"country":"United Kingdom","clientes":5350,"facturas":33541,"facturacion":14723147.52}
+{"country":"Germany","clientes":107,"facturas":789,"facturacion":431262.46}
+{"country":"France","clientes":95,"facturas":614,"facturacion":355257.47}
+{"country":"Spain","clientes":41,"facturas":154,"facturacion":109178.53}
+{"country":"Belgium","clientes":29,"facturas":149,"facturacion":65753.42}
+{"country":"Portugal","clientes":24,"facturas":93,"facturacion":57285.3}
+{"country":"Netherlands","clientes":22,"facturas":228,"facturacion":554232.34}
+{"country":"Switzerland","clientes":22,"facturas":90,"facturacion":100365.34}
+{"country":"Sweden","clientes":19,"facturas":104,"facturacion":91549.72}
+{"country":"Italy","clientes":17,"facturas":65,"facturacion":32550.42}
+{"country":"Australia","clientes":15,"facturas":95,"facturacion":169968.11}
+{"country":"Finland","clientes":14,"facturas":57,"facturacion":29925.54}
+{"country":"Norway","clientes":13,"facturas":45,"facturacion":60109.62}
+{"country":"Austria","clientes":13,"facturas":45,"facturacion":23613.01}
+{"country":"Channel Islands","clientes":13,"facturas":55,"facturacion":44996.76}
+{"country":"Denmark","clientes":12,"facturas":43,"facturacion":69862.19}
+{"country":"Cyprus","clientes":11,"facturas":37,"facturacion":24980.13}
+{"country":"Japan","clientes":10,"facturas":33,"facturacion":47138.39}
+{"country":"USA","clientes":9,"facturas":20,"facturacion":8366.86}
+{"country":"Unspecified","clientes":6,"facturas":16,"facturacion":8613.65}
+{"country":"Poland","clientes":6,"facturas":28,"facturacion":10902.45}
+{"country":"EIRE","clientes":5,"facturas":567,"facturacion":621631.11}
+{"country":"Greece","clientes":5,"facturas":18,"facturacion":19096.19}
+{"country":"Canada","clientes":5,"facturas":8,"facturacion":4883.04}
+{"country":"United Arab Emirates","clientes":4,"facturas":11,"facturacion":9202.69}
+{"country":"Israel","clientes":4,"facturas":7,"facturacion":10421.09}
+{"country":"Bahrain","clientes":2,"facturas":4,"facturacion":1354.37}
+{"country":"RSA","clientes":2,"facturas":2,"facturacion":1933.74}
+{"country":"Korea","clientes":2,"facturas":2,"facturacion":1118.51}
+{"country":"Malta","clientes":2,"facturas":9,"facturacion":8099.09}
+{"country":"Brazil","clientes":2,"facturas":2,"facturacion":1411.87}
+{"country":"Lebanon","clientes":1,"facturas":1,"facturacion":1693.88}
+{"country":"Iceland","clientes":1,"facturas":8,"facturacion":5633.32}
+{"country":"Czech Republic","clientes":1,"facturas":2,"facturacion":826.74}
+{"country":"Lithuania","clientes":1,"facturas":6,"facturacion":6553.74}
+{"country":"Saudi Arabia","clientes":1,"facturas":1,"facturacion":145.92}
+{"country":"Nigeria","clientes":1,"facturas":2,"facturacion":140.39}
+{"country":"European Community","clientes":1,"facturas":4,"facturacion":1300.25}
+{"country":"Thailand","clientes":1,"facturas":2,"facturacion":3070.54}
+{"country":"West Indies","clientes":1,"facturas":1,"facturacion":536.41}
+{"country":"Singapore","clientes":1,"facturas":11,"facturacion":25317.06}

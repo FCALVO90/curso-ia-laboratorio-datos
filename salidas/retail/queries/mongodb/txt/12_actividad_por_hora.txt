@@ -1,0 +1,15 @@
+{"lineas":1,"unidades":1,"hora":6,"facturas":1,"facturacion":4.25}
+{"lineas":1064,"unidades":45031,"hora":7,"facturas":77,"facturacion":76232.57}
+{"lineas":15679,"unidades":298268,"hora":8,"facturas":998,"facturacion":532450.68}
+{"lineas":67024,"unidades":930598,"hora":9,"facturas":2754,"facturacion":1802195.01}
+{"lineas":90627,"unidades":1512937,"hora":10,"facturas":4610,"facturacion":2629271.8}
+{"lineas":118391,"unidades":1472664,"hora":11,"facturas":4903,"facturacion":2584521.45}
+{"lineas":156537,"unidades":1697150,"hora":12,"facturas":6427,"facturacion":2910225.35}
+{"lineas":147299,"unidades":1578508,"hora":13,"facturas":5695,"facturacion":2602570.25}
+{"lineas":138495,"unidades":1214060,"hora":14,"facturas":5071,"facturacion":2385595.47}
+{"lineas":132390,"unidades":1271841,"hora":15,"facturas":4566,"facturacion":2478204.48}
+{"lineas":91644,"unidades":809521,"hora":16,"facturas":2718,"facturacion":1641125.32}
+{"lineas":55589,"unidades":371828,"hora":17,"facturas":1407,"facturacion":879212.12}
+{"lineas":16333,"unidades":124094,"hora":18,"facturas":466,"facturacion":282138.99}
+{"lineas":8549,"unidades":71970,"hora":19,"facturas":332,"facturacion":128991.01}
+{"lineas":2048,"unidades":21834,"hora":20,"facturas":53,"facturacion":39855.8}

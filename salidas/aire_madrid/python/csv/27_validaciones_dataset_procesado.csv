@@ -1,0 +1,16 @@
+PRUEBA,RESULTADO,ESPERADO,OBSERVADO
+estructura_columnas,OK,"['provincia', 'municipio', 'estacion', 'magnitud', 'punto_muestreo', 'anio', 'mes', 'dia', 'fecha', 'valor', 'indicador_validez', 'es_atipico_iqr']","['provincia', 'municipio', 'estacion', 'magnitud', 'punto_muestreo', 'anio', 'mes', 'dia', 'fecha', 'valor', 'indicador_validez', 'es_atipico_iqr']"
+nulos_totales,OK,0,0
+fechas_validas,OK,0 fechas inválidas,0
+valores_numericos,OK,0 valores no numéricos,0
+indicador_validez,OK,['V'],['V']
+duplicados_punto_fecha,OK,0,0
+coherencia_fecha,OK,0 incoherencias,0
+anio_dataset,OK,[2024],[2024]
+rango_meses,OK,1 <= mes <= 12,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]"
+rango_dias,OK,1 <= día <= 31,1 - 31
+valores_negativos,OK,0,0
+punto_muestreo_no_vacio,OK,0 vacíos,0
+estaciones_detectadas,OK,> 0,24
+magnitudes_detectadas,OK,> 0,11
+marcado_atipicos_booleano,OK,true/false,"['false', 'true']"

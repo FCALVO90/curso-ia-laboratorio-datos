@@ -1,0 +1,37 @@
+{
+  "origen": {
+    "motor": "PostgreSQL",
+    "tabla": "nyc_taxi.viajes_limpios"
+  },
+  "configuracion": {
+    "max_rows": 120000,
+    "sample_pct": 0.35,
+    "seed": 42
+  },
+  "datos": {
+    "filas_muestra_original": 9283,
+    "filas_modelo": 7360,
+    "filas_train": 5888,
+    "filas_test": 1472
+  },
+  "modelo_propina": {
+    "n": 7360,
+    "n_train": 5888,
+    "n_test": 1472,
+    "prevalencia": 0.7596,
+    "accuracy": 0.748,
+    "balanced_accuracy": 0.496,
+    "precision": 0.7539,
+    "recall": 0.9892,
+    "specificity": 0.0028,
+    "F1": 0.8557,
+    "auc": 0.5627,
+    "TP": 1100,
+    "TN": 1,
+    "FP": 359,
+    "FN": 12,
+    "AIC": 6345.5904,
+    "deviance": 6277.5904,
+    "null_deviance": 6480.0033
+  }
+}

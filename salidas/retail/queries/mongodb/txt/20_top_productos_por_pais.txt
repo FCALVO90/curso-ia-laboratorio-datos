@@ -1,0 +1,215 @@
+{"unidades_vendidas":1884,"country":"Australia","stockcode":"23084","description":"RABBIT NIGHT LIGHT","posicion":1,"facturacion":3375.84}
+{"unidades_vendidas":266,"country":"Australia","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":2,"facturacion":2930.7}
+{"unidades_vendidas":1668,"country":"Australia","stockcode":"21731","description":"RED TOADSTOOL LED NIGHT LIGHT","posicion":3,"facturacion":2464.2}
+{"unidades_vendidas":1316,"country":"Australia","stockcode":"22630","description":"DOLLY GIRL LUNCH BOX","posicion":4,"facturacion":2182.2}
+{"unidades_vendidas":600,"country":"Australia","stockcode":"22722","description":"SET OF 6 SPICE TINS PANTRY DESIGN","posicion":5,"facturacion":2082}
+{"unidades_vendidas":77,"country":"Austria","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":3056}
+{"unidades_vendidas":120,"country":"Austria","stockcode":"15056N","description":"EDWARDIAN PARASOL NATURAL","posicion":2,"facturacion":654}
+{"unidades_vendidas":108,"country":"Austria","stockcode":"15056BL","description":"EDWARDIAN PARASOL BLACK","posicion":3,"facturacion":582.6}
+{"unidades_vendidas":108,"country":"Austria","stockcode":"20679","description":"EDWARDIAN PARASOL RED","posicion":4,"facturacion":582.6}
+{"unidades_vendidas":78,"country":"Austria","stockcode":"15056P","description":"EDWARDIAN PARASOL PINK","posicion":5,"facturacion":464.1}
+{"unidades_vendidas":60,"country":"Bahrain","stockcode":"72802B","description":"OCEAN SCENT CANDLE IN JEWELLED BOX","posicion":1,"facturacion":231.24}
+{"unidades_vendidas":102,"country":"Bahrain","stockcode":"18097C","description":"WHITE TALL PORCELAIN T-LIGHT HOLDER","posicion":2,"facturacion":202.5}
+{"unidades_vendidas":10,"country":"Bahrain","stockcode":"20748","description":"KENSINGTON COFFEE SET","posicion":3,"facturacion":127.5}
+{"unidades_vendidas":96,"country":"Bahrain","stockcode":"23076","description":"ICE CREAM SUNDAE LIP GLOSS","posicion":4,"facturacion":120}
+{"unidades_vendidas":8,"country":"Bahrain","stockcode":"20747","description":"PICCADILLY TEA SET","posicion":5,"facturacion":119.6}
+{"unidades_vendidas":422,"country":"Belgium","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":6922}
+{"unidades_vendidas":1,"country":"Belgium","stockcode":"M","description":"Manual","posicion":2,"facturacion":1508.65}
+{"unidades_vendidas":504,"country":"Belgium","stockcode":"22326","description":"ROUND SNACK BOXES SET OF4 WOODLAND","posicion":3,"facturacion":1429.2}
+{"unidades_vendidas":572,"country":"Belgium","stockcode":"22630","description":"DOLLY GIRL LUNCH BOX","posicion":4,"facturacion":1077}
+{"unidades_vendidas":560,"country":"Belgium","stockcode":"22629","description":"SPACEBOY LUNCH BOX","posicion":5,"facturacion":1053.6}
+{"unidades_vendidas":1152,"country":"Bermuda","stockcode":"84568","description":"GIRLS ALPHABET IRON ON PATCHES","posicion":1,"facturacion":241.92}
+{"unidades_vendidas":1152,"country":"Bermuda","stockcode":"84598","description":"BOYS ALPHABET IRON ON PATCHES","posicion":2,"facturacion":241.92}
+{"unidades_vendidas":6,"country":"Bermuda","stockcode":"22236","description":"CAKE STAND 3 TIER MAGIC GARDEN","posicion":3,"facturacion":76.5}
+{"unidades_vendidas":12,"country":"Bermuda","stockcode":"84997C","description":"BLUE 3 PIECE MINI DOTS CUTLERY SET","posicion":4,"facturacion":45}
+{"unidades_vendidas":12,"country":"Bermuda","stockcode":"84997B","description":"RED 3 PIECE MINI DOTS CUTLERY SET","posicion":5,"facturacion":45}
+{"unidades_vendidas":16,"country":"Brazil","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":1,"facturacion":175.2}
+{"unidades_vendidas":24,"country":"Brazil","stockcode":"22722","description":"SET OF 6 SPICE TINS PANTRY DESIGN","posicion":2,"facturacion":82.8}
+{"unidades_vendidas":24,"country":"Brazil","stockcode":"21430","description":"SET/3 RED GINGHAM ROSE STORAGE BOX","posicion":3,"facturacion":81.36}
+{"unidades_vendidas":10,"country":"Brazil","stockcode":"22366","description":"DOORMAT AIRMAIL","posicion":4,"facturacion":67.5}
+{"unidades_vendidas":24,"country":"Brazil","stockcode":"22697","description":"GREEN REGENCY TEACUP AND SAUCER","posicion":5,"facturacion":61.2}
+{"unidades_vendidas":1,"country":"Canada","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":550.94}
+{"unidades_vendidas":504,"country":"Canada","stockcode":"37370","description":"RETRO COFFEE MUGS ASSORTED","posicion":2,"facturacion":534.24}
+{"unidades_vendidas":50,"country":"Canada","stockcode":"20727","description":"LUNCH BAG  BLACK SKULL.","posicion":3,"facturacion":82.5}
+{"unidades_vendidas":24,"country":"Canada","stockcode":"21558","description":"SKULL LUNCH BOX WITH CUTLERY","posicion":4,"facturacion":61.2}
+{"unidades_vendidas":288,"country":"Canada","stockcode":"84077","description":"WORLD WAR 2 GLIDERS ASSTD DESIGNS","posicion":5,"facturacion":60.48}
+{"unidades_vendidas":600,"country":"Channel Islands","stockcode":"51008","description":"AFGHAN SLIPPER SOCK PAIR","posicion":1,"facturacion":1770}
+{"unidades_vendidas":550,"country":"Channel Islands","stockcode":"85099B","description":"JUMBO BAG RED RETROSPOT","posicion":2,"facturacion":955.7}
+{"unidades_vendidas":65,"country":"Channel Islands","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":3,"facturacion":785.55}
+{"unidades_vendidas":420,"country":"Channel Islands","stockcode":"85099C","description":"JUMBO  BAG BAROQUE BLACK WHITE","posicion":4,"facturacion":729.6}
+{"unidades_vendidas":330,"country":"Channel Islands","stockcode":"22386","description":"JUMBO BAG PINK WITH WHITE SPOTS","posicion":5,"facturacion":553.5}
+{"unidades_vendidas":79,"country":"Cyprus","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":1,"facturacion":949.65}
+{"unidades_vendidas":291,"country":"Cyprus","stockcode":"85123A","description":"WHITE HANGING HEART T-LIGHT HOLDER","posicion":2,"facturacion":781.65}
+{"unidades_vendidas":4,"country":"Cyprus","stockcode":"22827","description":"RUSTIC  SEVENTEEN DRAWER SIDEBOARD","posicion":3,"facturacion":580}
+{"unidades_vendidas":69,"country":"Cyprus","stockcode":"15056N","description":"EDWARDIAN PARASOL NATURAL","posicion":4,"facturacion":410.55}
+{"unidades_vendidas":1,"country":"Cyprus","stockcode":"M","description":"Manual","posicion":5,"facturacion":320.69}
+{"unidades_vendidas":24,"country":"Czech Republic","stockcode":"22326","description":"ROUND SNACK BOXES SET OF4 WOODLAND","posicion":1,"facturacion":70.8}
+{"unidades_vendidas":24,"country":"Czech Republic","stockcode":"84347","description":"ROTATING SILVER ANGELS T-LIGHT HLDR","posicion":2,"facturacion":61.2}
+{"unidades_vendidas":36,"country":"Czech Republic","stockcode":"22231","description":"JIGSAW TREE WITH BIRDHOUSE","posicion":3,"facturacion":52.2}
+{"unidades_vendidas":12,"country":"Czech Republic","stockcode":"21428","description":"SET3 BOOK BOX GREEN GINGHAM FLOWER","posicion":4,"facturacion":51}
+{"unidades_vendidas":24,"country":"Czech Republic","stockcode":"47594B","description":"SCOTTIES DESIGN WASHBAG","posicion":5,"facturacion":46.8}
+{"unidades_vendidas":11960,"country":"Denmark","stockcode":"85220","description":"SMALL FAIRY CAKE FRIDGE MAGNETS","posicion":1,"facturacion":6467.6}
+{"unidades_vendidas":25164,"country":"Denmark","stockcode":"37410","description":"BLACK AND WHITE PAISLEY FLOWER MUG","posicion":2,"facturacion":2516.4}
+{"unidades_vendidas":73,"country":"Denmark","stockcode":"POST","description":"POSTAGE","posicion":3,"facturacion":1302}
+{"unidades_vendidas":12960,"country":"Denmark","stockcode":"21099","description":"SET/6 STRAWBERRY PAPER CUPS","posicion":4,"facturacion":1296}
+{"unidades_vendidas":12960,"country":"Denmark","stockcode":"21091","description":"SET/6 WOODLAND PAPER PLATES","posicion":5,"facturacion":1296}
+{"unidades_vendidas":28,"country":"EIRE","stockcode":"M","description":"Manual","posicion":1,"facturacion":23859.78}
+{"unidades_vendidas":1387,"country":"EIRE","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":2,"facturacion":15927.45}
+{"unidades_vendidas":202,"country":"EIRE","stockcode":"C2","description":"CARRIAGE","posicion":3,"facturacion":10005}
+{"unidades_vendidas":2202,"country":"EIRE","stockcode":"20914","description":"SET/5 RED SPOTTY LID GLASS BOWLS","posicion":4,"facturacion":5670.3}
+{"unidades_vendidas":2095,"country":"EIRE","stockcode":"85123A","description":"WHITE HANGING HEART T-LIGHT HOLDER","posicion":5,"facturacion":5631.45}
+{"unidades_vendidas":9,"country":"European Community","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":141}
+{"unidades_vendidas":8,"country":"European Community","stockcode":"22843","description":"BISCUIT TIN VINTAGE GREEN","posicion":2,"facturacion":54}
+{"unidades_vendidas":8,"country":"European Community","stockcode":"22842","description":"BISCUIT TIN VINTAGE RED","posicion":3,"facturacion":54}
+{"unidades_vendidas":18,"country":"European Community","stockcode":"22314","description":"OFFICE MUG WARMER CHOC+BLUE","posicion":4,"facturacion":53.1}
+{"unidades_vendidas":12,"country":"European Community","stockcode":"72807C","description":"SET/3 VANILLA SCENTED CANDLE IN BOX","posicion":5,"facturacion":51}
+{"unidades_vendidas":107,"country":"Finland","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":4131}
+{"unidades_vendidas":480,"country":"Finland","stockcode":"84997D","description":"CHILDRENS CUTLERY POLKADOT PINK","posicion":2,"facturacion":1819.2}
+{"unidades_vendidas":300,"country":"Finland","stockcode":"84997C","description":"CHILDRENS CUTLERY POLKADOT BLUE","posicion":3,"facturacion":1187.4}
+{"unidades_vendidas":196,"country":"Finland","stockcode":"84997A","description":"CHILDRENS CUTLERY POLKADOT GREEN","posicion":4,"facturacion":784.6}
+{"unidades_vendidas":162,"country":"Finland","stockcode":"84997D","description":"PINK 3 PIECE MINI DOTS CUTLERY SET","posicion":5,"facturacion":555.66}
+{"unidades_vendidas":1339,"country":"France","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":25030}
+{"unidades_vendidas":9,"country":"France","stockcode":"M","description":"Manual","posicion":2,"facturacion":14513.07}
+{"unidades_vendidas":4024,"country":"France","stockcode":"23084","description":"RABBIT NIGHT LIGHT","posicion":3,"facturacion":7277.2}
+{"unidades_vendidas":2791,"country":"France","stockcode":"21731","description":"RED TOADSTOOL LED NIGHT LIGHT","posicion":4,"facturacion":4605.15}
+{"unidades_vendidas":1267,"country":"France","stockcode":"22326","description":"ROUND SNACK BOXES SET OF4 WOODLAND","posicion":5,"facturacion":3660.85}
+{"unidades_vendidas":2090,"country":"Germany","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":39231.2}
+{"unidades_vendidas":1218,"country":"Germany","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":2,"facturacion":13599.9}
+{"unidades_vendidas":2758,"country":"Germany","stockcode":"22326","description":"ROUND SNACK BOXES SET OF4 WOODLAND","posicion":3,"facturacion":7867.3}
+{"unidades_vendidas":1609,"country":"Germany","stockcode":"22328","description":"ROUND SNACK BOXES SET OF 4 FRUITS","posicion":4,"facturacion":4573.75}
+{"unidades_vendidas":11,"country":"Germany","stockcode":"M","description":"Manual","posicion":5,"facturacion":3071.27}
+{"unidades_vendidas":160,"country":"Greece","stockcode":"85123A","description":"WHITE HANGING HEART T-LIGHT HOLDER","posicion":1,"facturacion":408}
+{"unidades_vendidas":8,"country":"Greece","stockcode":"POST","description":"POSTAGE","posicion":2,"facturacion":385}
+{"unidades_vendidas":42,"country":"Greece","stockcode":"48188","description":"DOORMAT WELCOME PUPPIES","posicion":3,"facturacion":285.9}
+{"unidades_vendidas":42,"country":"Greece","stockcode":"48129","description":"DOORMAT TOPIARY","posicion":4,"facturacion":285.9}
+{"unidades_vendidas":18,"country":"Greece","stockcode":"20747","description":"PICCADILLY TEA SET","posicion":5,"facturacion":229.5}
+{"unidades_vendidas":5,"country":"Hong Kong","stockcode":"M","description":"Manual","posicion":1,"facturacion":9844.07}
+{"unidades_vendidas":204,"country":"Hong Kong","stockcode":"22326","description":"ROUND SNACK BOXES SET OF4 WOODLAND","posicion":2,"facturacion":525}
+{"unidades_vendidas":96,"country":"Hong Kong","stockcode":"84997D","description":"CHILDRENS CUTLERY POLKADOT PINK","posicion":3,"facturacion":398.4}
+{"unidades_vendidas":88,"country":"Hong Kong","stockcode":"84997B","description":"CHILDRENS CUTLERY RETROSPOT RED","posicion":4,"facturacion":365.2}
+{"unidades_vendidas":108,"country":"Hong Kong","stockcode":"22452","description":"MEASURING TAPE BABUSHKA PINK","posicion":5,"facturacion":318.6}
+{"unidades_vendidas":156,"country":"Iceland","stockcode":"84558A","description":"3D DOG PICTURE PLAYING CARDS","posicion":1,"facturacion":460.2}
+{"unidades_vendidas":240,"country":"Iceland","stockcode":"23076","description":"ICE CREAM SUNDAE LIP GLOSS","posicion":2,"facturacion":249.6}
+{"unidades_vendidas":18,"country":"Iceland","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":3,"facturacion":229.5}
+{"unidades_vendidas":84,"country":"Iceland","stockcode":"23084","description":"RABBIT NIGHT LIGHT","posicion":4,"facturacion":153.84}
+{"unidades_vendidas":40,"country":"Iceland","stockcode":"22727","description":"ALARM CLOCK BAKELIKE RED","posicion":5,"facturacion":150}
+{"unidades_vendidas":66,"country":"Israel","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":1,"facturacion":726.3}
+{"unidades_vendidas":108,"country":"Israel","stockcode":"22326","description":"ROUND SNACK BOXES SET OF4 WOODLAND","posicion":2,"facturacion":280.2}
+{"unidades_vendidas":36,"country":"Israel","stockcode":"22192","description":"BLUE DINER WALL CLOCK","posicion":3,"facturacion":275.4}
+{"unidades_vendidas":60,"country":"Israel","stockcode":"23240","description":"SET OF 4 KNICK KNACK TINS DOILEY","posicion":4,"facturacion":229.8}
+{"unidades_vendidas":30,"country":"Israel","stockcode":"48187","description":"DOORMAT NEW ENGLAND","posicion":5,"facturacion":202.5}
+{"unidades_vendidas":78,"country":"Italy","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":3187}
+{"unidades_vendidas":26,"country":"Italy","stockcode":"22847","description":"BREAD BIN DINER STYLE IVORY","posicion":2,"facturacion":400.7}
+{"unidades_vendidas":432,"country":"Italy","stockcode":"51014A","description":"FEATHER PEN,HOT PINK","posicion":3,"facturacion":300.96}
+{"unidades_vendidas":57,"country":"Italy","stockcode":"22139","description":"RETROSPOT TEA SET CERAMIC 11 PC","posicion":4,"facturacion":282.15}
+{"unidades_vendidas":360,"country":"Italy","stockcode":"10002","description":"INFLATABLE POLITICAL GLOBE","posicion":5,"facturacion":267}
+{"unidades_vendidas":2991,"country":"Japan","stockcode":"22328","description":"ROUND SNACK BOXES SET OF 4 FRUITS","posicion":1,"facturacion":7633.05}
+{"unidades_vendidas":3408,"country":"Japan","stockcode":"23084","description":"RABBIT NIGHT LIGHT","posicion":2,"facturacion":6100.32}
+{"unidades_vendidas":264,"country":"Japan","stockcode":"21218","description":"RED SPOTTY BISCUIT TIN","posicion":3,"facturacion":858}
+{"unidades_vendidas":120,"country":"Japan","stockcode":"20750","description":"RED RETROSPOT MINI CASES","posicion":4,"facturacion":762}
+{"unidades_vendidas":84,"country":"Japan","stockcode":"21217","description":"RED RETROSPOT ROUND CAKE TINS","posicion":5,"facturacion":751.8}
+{"unidades_vendidas":48,"country":"Korea","stockcode":"21201","description":"TROPICAL  HONEYCOMB PAPER GARLAND","posicion":1,"facturacion":100.8}
+{"unidades_vendidas":24,"country":"Korea","stockcode":"84347","description":"ROTATING SILVER ANGELS T-LIGHT HLDR","posicion":2,"facturacion":61.2}
+{"unidades_vendidas":12,"country":"Korea","stockcode":"85174","description":"S/4 CACTI CANDLES","posicion":3,"facturacion":59.4}
+{"unidades_vendidas":24,"country":"Korea","stockcode":"22812","description":"PACK 3 BOXES CHRISTMAS PANNETONE","posicion":4,"facturacion":46.8}
+{"unidades_vendidas":6,"country":"Korea","stockcode":"47590B","description":"PINK HAPPY BIRTHDAY BUNTING","posicion":5,"facturacion":32.7}
+{"unidades_vendidas":12,"country":"Lebanon","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":1,"facturacion":153}
+{"unidades_vendidas":8,"country":"Lebanon","stockcode":"85066","description":"CREAM SWEETHEART MINI CHEST","posicion":2,"facturacion":102}
+{"unidades_vendidas":8,"country":"Lebanon","stockcode":"22606","description":"WOODEN SKITTLES GARDEN SET","posicion":3,"facturacion":102}
+{"unidades_vendidas":12,"country":"Lebanon","stockcode":"21906","description":"PHARMACIE FIRST AID TIN","posicion":4,"facturacion":81}
+{"unidades_vendidas":12,"country":"Lebanon","stockcode":"22842","description":"BISCUIT TIN VINTAGE RED","posicion":5,"facturacion":71.4}
+{"unidades_vendidas":80,"country":"Lithuania","stockcode":"22750","description":"FELTCRAFT PRINCESS LOLA DOLL","posicion":1,"facturacion":300}
+{"unidades_vendidas":80,"country":"Lithuania","stockcode":"20967","description":"GREY FLORAL FELTCRAFT SHOULDER BAG","posicion":2,"facturacion":300}
+{"unidades_vendidas":108,"country":"Lithuania","stockcode":"22271","description":"FELTCRAFT DOLL ROSIE","posicion":3,"facturacion":280.2}
+{"unidades_vendidas":72,"country":"Lithuania","stockcode":"22751","description":"FELTCRAFT PRINCESS OLIVIA DOLL","posicion":4,"facturacion":270}
+{"unidades_vendidas":39,"country":"Lithuania","stockcode":"15056BL","description":"EDWARDIAN PARASOL BLACK","posicion":5,"facturacion":232.05}
+{"unidades_vendidas":2,"country":"Malta","stockcode":"M","description":"Manual","posicion":1,"facturacion":2686.75}
+{"unidades_vendidas":12,"country":"Malta","stockcode":"POST","description":"POSTAGE","posicion":2,"facturacion":655}
+{"unidades_vendidas":153,"country":"Malta","stockcode":"72741","description":"GRAND CHOCOLATECANDLE","posicion":3,"facturacion":207.45}
+{"unidades_vendidas":12,"country":"Malta","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":4,"facturacion":153}
+{"unidades_vendidas":144,"country":"Malta","stockcode":"85178","description":"VICTORIAN SEWING KIT","posicion":5,"facturacion":122.4}
+{"unidades_vendidas":5210,"country":"Netherlands","stockcode":"22326","description":"ROUND SNACK BOXES SET OF4 WOODLAND","posicion":1,"facturacion":13315.1}
+{"unidades_vendidas":4270,"country":"Netherlands","stockcode":"85123A","description":"WHITE HANGING HEART T-LIGHT HOLDER","posicion":2,"facturacion":10932.5}
+{"unidades_vendidas":6522,"country":"Netherlands","stockcode":"22630","description":"DOLLY GIRL LUNCH BOX","posicion":3,"facturacion":10797.9}
+{"unidades_vendidas":6460,"country":"Netherlands","stockcode":"22629","description":"SPACEBOY LUNCH BOX","posicion":4,"facturacion":10696.2}
+{"unidades_vendidas":4801,"country":"Netherlands","stockcode":"23084","description":"RABBIT NIGHT LIGHT","posicion":5,"facturacion":9568.48}
+{"unidades_vendidas":1,"country":"Nigeria","stockcode":"ADJUST","description":"Adjustment by john on 26/01/2010 17","posicion":1,"facturacion":27.82}
+{"unidades_vendidas":24,"country":"Nigeria","stockcode":"84991","description":"60 TEATIME FAIRY CAKE CASES","posicion":2,"facturacion":13.2}
+{"unidades_vendidas":25,"country":"Nigeria","stockcode":"16156S","description":"WRAP PINK FAIRY CAKES","posicion":3,"facturacion":10.5}
+{"unidades_vendidas":25,"country":"Nigeria","stockcode":"22047","description":"EMPIRE GIFT WRAP","posicion":4,"facturacion":10.5}
+{"unidades_vendidas":1,"country":"Nigeria","stockcode":"22618","description":"COOKING SET RETROSPOT","posicion":5,"facturacion":9.95}
+{"unidades_vendidas":5,"country":"Norway","stockcode":"M","description":"Manual","posicion":1,"facturacion":14756.64}
+{"unidades_vendidas":60,"country":"Norway","stockcode":"POST","description":"POSTAGE","posicion":2,"facturacion":2990.5}
+{"unidades_vendidas":446,"country":"Norway","stockcode":"84050","description":"PINK HEART SHAPE EGG FRYING PAN","posicion":3,"facturacion":591.9}
+{"unidades_vendidas":504,"country":"Norway","stockcode":"22693","description":"GROW A FLYTRAP OR SUNFLOWER IN TIN","posicion":4,"facturacion":538.8}
+{"unidades_vendidas":60,"country":"Norway","stockcode":"22635","description":"CHILDS BREAKFAST SET DOLLY GIRL","posicion":5,"facturacion":527.4}
+{"unidades_vendidas":11,"country":"Poland","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":440}
+{"unidades_vendidas":264,"country":"Poland","stockcode":"21232","description":"STRAWBERRY CERAMIC TRINKET BOX","posicion":2,"facturacion":316.32}
+{"unidades_vendidas":204,"country":"Poland","stockcode":"37448","description":"CERAMIC CAKE DESIGN SPOTTED MUG","posicion":3,"facturacion":280.92}
+{"unidades_vendidas":72,"country":"Poland","stockcode":"22666","description":"RECIPE BOX PANTRY YELLOW DESIGN","posicion":4,"facturacion":202.8}
+{"unidades_vendidas":70,"country":"Poland","stockcode":"21733","description":"RED HANGING HEART T-LIGHT HOLDER","posicion":5,"facturacion":180.9}
+{"unidades_vendidas":184,"country":"Portugal","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":4855.6}
+{"unidades_vendidas":8,"country":"Portugal","stockcode":"M","description":"Manual","posicion":2,"facturacion":4223.94}
+{"unidades_vendidas":340,"country":"Portugal","stockcode":"22411","description":"JUMBO SHOPPER VINTAGE RED PAISLEY","posicion":3,"facturacion":679.9}
+{"unidades_vendidas":53,"country":"Portugal","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":4,"facturacion":618.15}
+{"unidades_vendidas":335,"country":"Portugal","stockcode":"20728","description":"LUNCH BAG CARS BLUE","posicion":5,"facturacion":552.75}
+{"unidades_vendidas":1,"country":"RSA","stockcode":"M","description":"Manual","posicion":1,"facturacion":1435.29}
+{"unidades_vendidas":104,"country":"RSA","stockcode":"21243","description":"PINK  POLKADOT PLATE","posicion":2,"facturacion":152.72}
+{"unidades_vendidas":80,"country":"RSA","stockcode":"21244","description":"BLUE POLKADOT PLATE","posicion":3,"facturacion":135.2}
+{"unidades_vendidas":80,"country":"RSA","stockcode":"22384","description":"LUNCH BAG PINK POLKADOT","posicion":4,"facturacion":132}
+{"unidades_vendidas":104,"country":"RSA","stockcode":"20677","description":"PINK POLKADOT BOWL","posicion":5,"facturacion":116.32}
+{"unidades_vendidas":12,"country":"Saudi Arabia","stockcode":"22555","description":"PLASTERS IN TIN STRONGMAN","posicion":1,"facturacion":19.8}
+{"unidades_vendidas":12,"country":"Saudi Arabia","stockcode":"22556","description":"PLASTERS IN TIN CIRCUS PARADE","posicion":2,"facturacion":19.8}
+{"unidades_vendidas":12,"country":"Saudi Arabia","stockcode":"22553","description":"PLASTERS IN TIN SKULLS","posicion":3,"facturacion":19.8}
+{"unidades_vendidas":6,"country":"Saudi Arabia","stockcode":"22363","description":"GLASS JAR MARMALADE","posicion":4,"facturacion":17.7}
+{"unidades_vendidas":6,"country":"Saudi Arabia","stockcode":"22361","description":"GLASS JAR DAISY FRESH COTTON WOOL","posicion":5,"facturacion":17.7}
+{"unidades_vendidas":7,"country":"Singapore","stockcode":"M","description":"Manual","posicion":1,"facturacion":12158.9}
+{"unidades_vendidas":84,"country":"Singapore","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":2,"facturacion":927}
+{"unidades_vendidas":146,"country":"Singapore","stockcode":"85123A","description":"WHITE HANGING HEART T-LIGHT HOLDER","posicion":3,"facturacion":379.5}
+{"unidades_vendidas":50,"country":"Singapore","stockcode":"48138","description":"DOORMAT UNION FLAG","posicion":4,"facturacion":340.8}
+{"unidades_vendidas":2,"country":"Singapore","stockcode":"22655","description":"VINTAGE RED KITCHEN CABINET","posicion":5,"facturacion":250}
+{"unidades_vendidas":306,"country":"Spain","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":8927}
+{"unidades_vendidas":729,"country":"Spain","stockcode":"84997D","description":"CHILDRENS CUTLERY POLKADOT PINK","posicion":2,"facturacion":2737.35}
+{"unidades_vendidas":1728,"country":"Spain","stockcode":"22341","description":"LOVE GARLAND PAINTED ZINC","posicion":3,"facturacion":2620.8}
+{"unidades_vendidas":209,"country":"Spain","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":4,"facturacion":2520.75}
+{"unidades_vendidas":653,"country":"Spain","stockcode":"84997C","description":"CHILDRENS CUTLERY POLKADOT BLUE","posicion":5,"facturacion":2450.75}
+{"unidades_vendidas":93,"country":"Sweden","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":3771}
+{"unidades_vendidas":4248,"country":"Sweden","stockcode":"22492","description":"MINI PAINT SET VINTAGE","posicion":2,"facturacion":2761.2}
+{"unidades_vendidas":483,"country":"Sweden","stockcode":"85232B","description":"SET OF 3 BABUSHKA STACKING TINS","posicion":3,"facturacion":2390.85}
+{"unidades_vendidas":1300,"country":"Sweden","stockcode":"22383","description":"LUNCH BAG SUKI  DESIGN","posicion":4,"facturacion":1885}
+{"unidades_vendidas":3,"country":"Sweden","stockcode":"M","description":"Manual","posicion":5,"facturacion":1779.68}
+{"unidades_vendidas":152,"country":"Switzerland","stockcode":"POST","description":"POSTAGE","posicion":1,"facturacion":6741}
+{"unidades_vendidas":762,"country":"Switzerland","stockcode":"22326","description":"ROUND SNACK BOXES SET OF4 WOODLAND","posicion":2,"facturacion":2075.1}
+{"unidades_vendidas":915,"country":"Switzerland","stockcode":"22554","description":"PLASTERS IN TIN WOODLAND ANIMALS","posicion":3,"facturacion":1413.75}
+{"unidades_vendidas":672,"country":"Switzerland","stockcode":"22551","description":"PLASTERS IN TIN SPACEBOY","posicion":4,"facturacion":1051.2}
+{"unidades_vendidas":78,"country":"Switzerland","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":5,"facturacion":936.9}
+{"unidades_vendidas":96,"country":"Thailand","stockcode":"22497","description":"SET OF 2 TINS VINTAGE BATHROOM","posicion":1,"facturacion":360}
+{"unidades_vendidas":192,"country":"Thailand","stockcode":"21429","description":"RED GINGHAM ROSE JEWELLERY BOX","posicion":2,"facturacion":278.4}
+{"unidades_vendidas":192,"country":"Thailand","stockcode":"21431","description":"GREEN GINGHAM FLOWER JEWELLERY BOX","posicion":3,"facturacion":278.4}
+{"unidades_vendidas":108,"country":"Thailand","stockcode":"22495","description":"SET OF 2 ROUND TINS CAMEMBERT","posicion":4,"facturacion":275.4}
+{"unidades_vendidas":240,"country":"Thailand","stockcode":"21700","description":"BIG DOUGHNUT FRIDGE MAGNETS","posicion":5,"facturacion":172.8}
+{"unidades_vendidas":408,"country":"USA","stockcode":"21355","description":"TOAST ITS - I LOVE YOU","posicion":1,"facturacion":452.4}
+{"unidades_vendidas":4,"country":"USA","stockcode":"POST","description":"POSTAGE","posicion":2,"facturacion":446}
+{"unidades_vendidas":16,"country":"USA","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":3,"facturacion":204}
+{"unidades_vendidas":48,"country":"USA","stockcode":"23328","description":"SET 6 SCHOOL MILK BOTTLES IN CRATE","posicion":4,"facturacion":162.72}
+{"unidades_vendidas":85,"country":"USA","stockcode":"21210","description":"SET OF 72 RETRO SPOT PAPER  DOILIES","posicion":5,"facturacion":123.25}
+{"unidades_vendidas":2,"country":"United Arab Emirates","stockcode":"M","description":"Manual","posicion":1,"facturacion":756.9}
+{"unidades_vendidas":19,"country":"United Arab Emirates","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":2,"facturacion":242.25}
+{"unidades_vendidas":192,"country":"United Arab Emirates","stockcode":"21700","description":"BIG DOUGHNUT FRIDGE MAGNETS","posicion":3,"facturacion":163.2}
+{"unidades_vendidas":4,"country":"United Arab Emirates","stockcode":"84823","description":"DANISH ROSE FOLDING CHAIR","posicion":4,"facturacion":159.8}
+{"unidades_vendidas":144,"country":"United Arab Emirates","stockcode":"21098","description":"CHRISTMAS TOILET ROLL","posicion":5,"facturacion":152.64}
+{"unidades_vendidas":1436,"country":"United Kingdom","stockcode":"DOT","description":"DOTCOM POSTAGE","posicion":1,"facturacion":322657.48}
+{"unidades_vendidas":22911,"country":"United Kingdom","stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","posicion":2,"facturacion":291249.35}
+{"unidades_vendidas":9949,"country":"United Kingdom","stockcode":"M","description":"Manual","posicion":3,"facturacion":245954.48}
+{"unidades_vendidas":88410,"country":"United Kingdom","stockcode":"85123A","description":"WHITE HANGING HEART T-LIGHT HOLDER","posicion":4,"facturacion":242731.76}
+{"unidades_vendidas":80995,"country":"United Kingdom","stockcode":"23843","description":"PAPER CRAFT , LITTLE BIRDIE","posicion":5,"facturacion":168469.6}
+{"unidades_vendidas":83,"country":"Unspecified","stockcode":"21108","description":"FAIRY CAKE FLANNEL ASSORTED COLOUR","posicion":1,"facturacion":211.65}
+{"unidades_vendidas":48,"country":"Unspecified","stockcode":"37495","description":"FAIRY CAKE BIRTHDAY CANDLE SET","posicion":2,"facturacion":180}
+{"unidades_vendidas":24,"country":"Unspecified","stockcode":"21110","description":"LARGE CAKE TOWEL PINK SPOTS","posicion":3,"facturacion":162}
+{"unidades_vendidas":14,"country":"Unspecified","stockcode":"37503","description":"TEA TIME CAKE STAND IN GIFT BOX","posicion":4,"facturacion":150.5}
+{"unidades_vendidas":16,"country":"Unspecified","stockcode":"37449","description":"CERAMIC CAKE STAND + HANGING CAKES","posicion":5,"facturacion":136}
+{"unidades_vendidas":24,"country":"West Indies","stockcode":"20886","description":"BOX OF 9 PEBBLE CANDLES","posicion":1,"facturacion":46.8}
+{"unidades_vendidas":24,"country":"West Indies","stockcode":"22444","description":"GROW YOUR OWN PLANT IN A CAN","posicion":2,"facturacion":30}
+{"unidades_vendidas":6,"country":"West Indies","stockcode":"72802B","description":"OCEAN SCENT CANDLE IN JEWELLED BOX","posicion":3,"facturacion":25.5}
+{"unidades_vendidas":6,"country":"West Indies","stockcode":"72802A","description":"ROSE SCENT CANDLE IN JEWELLED BOX","posicion":4,"facturacion":25.5}
+{"unidades_vendidas":3,"country":"West Indies","stockcode":"35651","description":"VINTAGE BEAD PINK SCARF","posicion":5,"facturacion":23.85}

@@ -1,0 +1,51 @@
+{
+    "dataset": {
+        "fichero": "/home/fcqdevadmin/curso_ia/datos/processed/aire_madrid/calidad_aire_madrid_procesado.csv",
+        "registros": 42273,
+        "columnas": 12
+    },
+    "calidad": {
+        "nulos_totales": 0,
+        "duplicados": 0,
+        "fechas_invalidas": 0,
+        "incoherencias_fecha": 0,
+        "valores_negativos": 0
+    },
+    "cobertura": {
+        "anios": [
+            2024
+        ],
+        "meses": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "fecha_minima": "2024-01-01 00:00:00",
+        "fecha_maxima": "2024-11-30 00:00:00",
+        "estaciones": 24,
+        "magnitudes": 11,
+        "puntos_muestreo": 131
+    },
+    "atipicos_iqr": {
+        "marcados": 2577,
+        "eliminados": 0
+    },
+    "validacion": {
+        "pruebas_totales": 15,
+        "pruebas_ok": 15,
+        "errores": 0,
+        "resultado_global": "OK"
+    },
+    "ejecucion": {
+        "inicio": "2026-11-17T07:39:20.503426",
+        "fin": "2026-11-17T07:39:20.586381"
+    }
+}

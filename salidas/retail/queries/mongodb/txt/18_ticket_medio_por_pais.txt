@@ -1,0 +1,43 @@
+{"numero_facturas":36535,"country":"United Kingdom","ticket_medio":489.15,"facturacion":17870977.78}
+{"numero_facturas":626,"country":"EIRE","ticket_medio":1061.39,"facturacion":664431.78}
+{"numero_facturas":228,"country":"Netherlands","ticket_medio":2430.84,"facturacion":554232.34}
+{"numero_facturas":789,"country":"Germany","ticket_medio":546.59,"facturacion":431262.46}
+{"numero_facturas":622,"country":"France","ticket_medio":573.87,"facturacion":356944.6}
+{"numero_facturas":95,"country":"Australia","ticket_medio":1789.14,"facturacion":169968.11}
+{"numero_facturas":154,"country":"Spain","ticket_medio":708.95,"facturacion":109178.53}
+{"numero_facturas":93,"country":"Switzerland","ticket_medio":1086.14,"facturacion":101011.29}
+{"numero_facturas":105,"country":"Sweden","ticket_medio":875.27,"facturacion":91903.72}
+{"numero_facturas":43,"country":"Denmark","ticket_medio":1624.7,"facturacion":69862.19}
+{"numero_facturas":149,"country":"Belgium","ticket_medio":441.3,"facturacion":65753.42}
+{"numero_facturas":45,"country":"Norway","ticket_medio":1335.77,"facturacion":60109.62}
+{"numero_facturas":95,"country":"Portugal","ticket_medio":610.7,"facturacion":58016.65}
+{"numero_facturas":33,"country":"Japan","ticket_medio":1428.44,"facturacion":47138.39}
+{"numero_facturas":55,"country":"Channel Islands","ticket_medio":818.12,"facturacion":44996.76}
+{"numero_facturas":65,"country":"Italy","ticket_medio":500.78,"facturacion":32550.42}
+{"numero_facturas":57,"country":"Finland","ticket_medio":525.01,"facturacion":29925.54}
+{"numero_facturas":11,"country":"Singapore","ticket_medio":2301.55,"facturacion":25317.06}
+{"numero_facturas":37,"country":"Cyprus","ticket_medio":675.14,"facturacion":24980.13}
+{"numero_facturas":15,"country":"Hong Kong","ticket_medio":1592.95,"facturacion":23894.32}
+{"numero_facturas":45,"country":"Austria","ticket_medio":524.73,"facturacion":23613.01}
+{"numero_facturas":18,"country":"Greece","ticket_medio":1060.9,"facturacion":19096.19}
+{"numero_facturas":10,"country":"Israel","ticket_medio":1133.47,"facturacion":11334.66}
+{"numero_facturas":16,"country":"United Arab Emirates","ticket_medio":693.6,"facturacion":11097.63}
+{"numero_facturas":24,"country":"Unspecified","ticket_medio":455.67,"facturacion":10936.01}
+{"numero_facturas":28,"country":"Poland","ticket_medio":389.37,"facturacion":10902.45}
+{"numero_facturas":20,"country":"USA","ticket_medio":418.34,"facturacion":8366.86}
+{"numero_facturas":9,"country":"Malta","ticket_medio":899.9,"facturacion":8099.09}
+{"numero_facturas":6,"country":"Lithuania","ticket_medio":1092.29,"facturacion":6553.74}
+{"numero_facturas":8,"country":"Iceland","ticket_medio":704.16,"facturacion":5633.32}
+{"numero_facturas":8,"country":"Canada","ticket_medio":610.38,"facturacion":4883.04}
+{"numero_facturas":4,"country":"RSA","ticket_medio":1201.08,"facturacion":4804.32}
+{"numero_facturas":10,"country":"Bahrain","ticket_medio":310.98,"facturacion":3109.79}
+{"numero_facturas":2,"country":"Thailand","ticket_medio":1535.27,"facturacion":3070.54}
+{"numero_facturas":2,"country":"Lebanon","ticket_medio":952.79,"facturacion":1905.58}
+{"numero_facturas":2,"country":"Brazil","ticket_medio":705.93,"facturacion":1411.87}
+{"numero_facturas":4,"country":"European Community","ticket_medio":325.06,"facturacion":1300.25}
+{"numero_facturas":1,"country":"Bermuda","ticket_medio":1253.14,"facturacion":1253.14}
+{"numero_facturas":2,"country":"Korea","ticket_medio":559.25,"facturacion":1118.51}
+{"numero_facturas":2,"country":"Czech Republic","ticket_medio":413.37,"facturacion":826.74}
+{"numero_facturas":1,"country":"West Indies","ticket_medio":536.41,"facturacion":536.41}
+{"numero_facturas":1,"country":"Saudi Arabia","ticket_medio":145.92,"facturacion":145.92}
+{"numero_facturas":2,"country":"Nigeria","ticket_medio":70.19,"facturacion":140.39}

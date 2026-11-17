@@ -1,0 +1,2 @@
+{"lineas":1047877,"cantidad":11099484,"is_cancelled":0,"facturas":45336,"importe":20813918.43}
+{"lineas":19494,"cantidad":-490992,"is_cancelled":1,"facturas":8292,"importe":-1526667.86}

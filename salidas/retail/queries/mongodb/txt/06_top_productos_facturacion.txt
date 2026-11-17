@@ -1,0 +1,20 @@
+{"unidades_vendidas":27577,"stockcode":"22423","description":"REGENCY CAKESTAND 3 TIER","numero_facturas":3918,"precio_medio":14.18,"facturacion":344563.25}
+{"unidades_vendidas":10050,"stockcode":"M","description":"Manual","numero_facturas":784,"precio_medio":381.98,"facturacion":340716.28}
+{"unidades_vendidas":1436,"stockcode":"DOT","description":"DOTCOM POSTAGE","numero_facturas":1415,"precio_medio":224.69,"facturacion":322657.48}
+{"unidades_vendidas":96086,"stockcode":"85123A","description":"WHITE HANGING HEART T-LIGHT HOLDER","numero_facturas":5356,"precio_medio":3.07,"facturacion":262931.16}
+{"unidades_vendidas":80995,"stockcode":"23843","description":"PAPER CRAFT , LITTLE BIRDIE","numero_facturas":1,"precio_medio":2.08,"facturacion":168469.6}
+{"unidades_vendidas":28378,"stockcode":"47566","description":"PARTY BUNTING","numero_facturas":2674,"precio_medio":5.72,"facturacion":149187.05}
+{"unidades_vendidas":78860,"stockcode":"85099B","description":"JUMBO BAG RED RETROSPOT","numero_facturas":3245,"precio_medio":2.37,"facturacion":148823.92}
+{"unidades_vendidas":81809,"stockcode":"84879","description":"ASSORTED COLOUR BIRD ORNAMENT","numero_facturas":2807,"precio_medio":1.86,"facturacion":132187.92}
+{"unidades_vendidas":5461,"stockcode":"POST","description":"POSTAGE","numero_facturas":1851,"precio_medio":29.29,"facturacion":127597.42}
+{"unidades_vendidas":36581,"stockcode":"22086","description":"PAPER CHAIN KIT 50'S CHRISTMAS","numero_facturas":2018,"precio_medio":3.36,"facturacion":123141.54}
+{"unidades_vendidas":16840,"stockcode":"79321","description":"CHILLI LIGHTS","numero_facturas":1135,"precio_medio":6.27,"facturacion":85489.91}
+{"unidades_vendidas":78033,"stockcode":"23166","description":"MEDIUM CERAMIC TOP STORAGE JAR","numero_facturas":247,"precio_medio":1.47,"facturacion":81700.92}
+{"unidades_vendidas":32525,"stockcode":"84347","description":"ROTATING SILVER ANGELS T-LIGHT HLDR","numero_facturas":756,"precio_medio":3.34,"facturacion":74448.92}
+{"unidades_vendidas":19954,"stockcode":"21137","description":"BLACK RECORD COVER FRAME","numero_facturas":634,"precio_medio":4.14,"facturacion":69329.47}
+{"unidades_vendidas":37124,"stockcode":"85099F","description":"JUMBO BAG STRAWBERRY","numero_facturas":1830,"precio_medio":2.29,"facturacion":68488.81}
+{"unidades_vendidas":30788,"stockcode":"23084","description":"RABBIT NIGHT LIGHT","numero_facturas":994,"precio_medio":2.38,"facturacion":66964.99}
+{"unidades_vendidas":12462,"stockcode":"22114","description":"HOT WATER BOTTLE TEA AND SYMPATHY","numero_facturas":1583,"precio_medio":4.78,"facturacion":63517.75}
+{"unidades_vendidas":11054,"stockcode":"82484","description":"WOOD BLACK BOARD ANT WHITE FINISH","numero_facturas":1176,"precio_medio":7.8,"facturacion":62842.02}
+{"unidades_vendidas":29503,"stockcode":"21931","description":"JUMBO STORAGE BAG SUKI","numero_facturas":2329,"precio_medio":2.53,"facturacion":62285.28}
+{"unidades_vendidas":19597,"stockcode":"22910","description":"PAPER CHAIN KIT VINTAGE CHRISTMAS","numero_facturas":1427,"precio_medio":3.3,"facturacion":61721.99}

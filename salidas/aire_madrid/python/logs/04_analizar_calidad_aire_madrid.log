@@ -1,0 +1,38 @@
+2026-11-17 07:39:21 | INFO | ===============================================================================
+2026-11-17 07:39:21 | INFO | INICIO DEL EDA DE CALIDAD DEL AIRE DE MADRID
+2026-11-17 07:39:21 | INFO | ===============================================================================
+2026-11-17 07:39:21 | INFO | SHA256 del procesado antes del EDA: 6ec8fc262a122d5e3657b7c671f79a8a16e9440601264c849b46314b6f173d77
+2026-11-17 07:39:21 | INFO | Leyendo dataset procesado: /home/fcqdevadmin/curso_ia/datos/processed/aire_madrid/calidad_aire_madrid_procesado.csv
+2026-11-17 07:39:21 | INFO | Registros cargados: 42273
+2026-11-17 07:39:21 | INFO | Periodo: 2024-01-01 -> 2024-11-30
+2026-11-17 07:39:21 | INFO | Calculando tablas del análisis exploratorio...
+2026-11-17 07:39:21 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/31_descriptivos_por_magnitud.csv
+2026-11-17 07:39:21 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/32_evolucion_mensual.csv
+2026-11-17 07:39:21 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/33_evolucion_diaria.csv
+2026-11-17 07:39:21 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/34_resumen_estaciones.csv
+2026-11-17 07:39:21 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/35_atipicos_por_magnitud.csv
+2026-11-17 07:39:21 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/36_ranking_estaciones_magnitud.csv
+2026-11-17 07:39:21 | INFO | Generando distribuciones por magnitud...
+2026-11-17 07:39:22 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/graficos/01_distribucion_magnitudes.png
+2026-11-17 07:39:22 | INFO | Generando boxplots por magnitud...
+2026-11-17 07:39:23 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/graficos/02_boxplot_magnitudes.png
+2026-11-17 07:39:23 | INFO | Generando evolución mensual normalizada...
+2026-11-17 07:39:23 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/graficos/03_evolucion_mensual.png
+2026-11-17 07:39:23 | INFO | Generando evolución diaria por magnitud...
+2026-11-17 07:39:24 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/graficos/04_evolucion_diaria.png
+2026-11-17 07:39:24 | INFO | Generando gráfico de atípicos...
+2026-11-17 07:39:24 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/graficos/05_atipicos_por_magnitud.png
+2026-11-17 07:39:24 | INFO | Generando mapa de calor mes-magnitud...
+2026-11-17 07:39:25 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/graficos/06_heatmap_mes_magnitud.png
+2026-11-17 07:39:25 | INFO | Generando panel resumen del EDA...
+2026-11-17 07:39:25 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/graficos/07_panel_eda_calidad_aire.png
+2026-11-17 07:39:25 | INFO | JSON generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/json/04_resumen_eda_python.json
+2026-11-17 07:39:25 | INFO | ===============================================================================
+2026-11-17 07:39:25 | INFO | EDA COMPLETADO CORRECTAMENTE
+2026-11-17 07:39:25 | INFO | Tablas CSV generadas: 6
+2026-11-17 07:39:25 | INFO | Gráficos PNG generados: 7
+2026-11-17 07:39:25 | INFO | Registros analizados: 42273
+2026-11-17 07:39:25 | INFO | Atípicos conservados: 2577
+2026-11-17 07:39:25 | INFO | Dataset procesado no modificado: True
+2026-11-17 07:39:25 | INFO | Duración: 4.74 segundos
+2026-11-17 07:39:25 | INFO | ===============================================================================

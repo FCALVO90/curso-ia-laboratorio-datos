@@ -1,0 +1,1 @@
+{"numero_facturas":40077,"ticket_medio":523.31,"ticket_minimo":0.19,"ticket_maximo":168469.6}

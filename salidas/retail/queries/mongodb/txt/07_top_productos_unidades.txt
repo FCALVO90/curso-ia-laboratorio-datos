@@ -1,0 +1,20 @@
+{"unidades_vendidas":110249,"stockcode":"84077","description":"WORLD WAR 2 GLIDERS ASSTD DESIGNS","facturacion":25259.9}
+{"unidades_vendidas":96091,"stockcode":"85123A","description":"WHITE HANGING HEART T-LIGHT HOLDER","facturacion":262931.16}
+{"unidades_vendidas":81817,"stockcode":"84879","description":"ASSORTED COLOUR BIRD ORNAMENT","facturacion":132187.92}
+{"unidades_vendidas":80995,"stockcode":"23843","description":"PAPER CRAFT , LITTLE BIRDIE","facturacion":168469.6}
+{"unidades_vendidas":78866,"stockcode":"85099B","description":"JUMBO BAG RED RETROSPOT","facturacion":148823.92}
+{"unidades_vendidas":78033,"stockcode":"23166","description":"MEDIUM CERAMIC TOP STORAGE JAR","facturacion":81700.92}
+{"unidades_vendidas":71440,"stockcode":"17003","description":"BROCADE RING PURSE","facturacion":14959.19}
+{"unidades_vendidas":56794,"stockcode":"21977","description":"PACK OF 60 PINK PAISLEY CAKE CASES","facturacion":28490.98}
+{"unidades_vendidas":54716,"stockcode":"84991","description":"60 TEATIME FAIRY CAKE CASES","facturacion":27404.22}
+{"unidades_vendidas":49984,"stockcode":"22197","description":"SMALL POPCORN HOLDER","facturacion":44090.13}
+{"unidades_vendidas":49805,"stockcode":"21212","description":"PACK OF 72 RETROSPOT CAKE CASES","facturacion":28927.92}
+{"unidades_vendidas":46755,"stockcode":"21212","description":"PACK OF 72 RETRO SPOT CAKE CASES","facturacion":24069.28}
+{"unidades_vendidas":44485,"stockcode":"15036","description":"ASSORTED COLOURS SILK FAN","facturacion":33041.55}
+{"unidades_vendidas":44405,"stockcode":"22492","description":"MINI PAINT SET VINTAGE","facturacion":28284.79}
+{"unidades_vendidas":40839,"stockcode":"84755","description":"COLOUR GLASS T-LIGHT HOLDER HANGING","facturacion":25475.05}
+{"unidades_vendidas":40748,"stockcode":"22178","description":"VICTORIAN GLASS HANGING T-LIGHT","facturacion":53330.49}
+{"unidades_vendidas":40733,"stockcode":"21213","description":"PACK OF 72 SKULL CAKE CASES","facturacion":21734.85}
+{"unidades_vendidas":40367,"stockcode":"22616","description":"PACK OF 12 LONDON TISSUES","facturacion":12764.06}
+{"unidades_vendidas":38574,"stockcode":"84568","description":"GIRLS ALPHABET IRON ON PATCHES","facturacion":8062.71}
+{"unidades_vendidas":38191,"stockcode":"21915","description":"RED  HARMONICA IN BOX","facturacion":44808.8}

@@ -1,0 +1,2 @@
+total_lineas|total_facturas|total_productos|total_clientes|total_paises|primera_fecha|ultima_fecha|facturacion_total
+1067371|53628|5131|5942|43|2009-12-01 07:45:00.000000|2011-12-09 12:50:00.000000|19287250.57

@@ -1,0 +1,13 @@
+archivo,filas,columnas,row_groups,tamano_mb
+yellow_tripdata_2024-01.parquet,2964624,19,3,47.65
+yellow_tripdata_2024-02.parquet,3007526,19,3,48.02
+yellow_tripdata_2024-03.parquet,3582628,19,4,57.3
+yellow_tripdata_2024-04.parquet,3514289,19,4,56.39
+yellow_tripdata_2024-05.parquet,3723833,19,4,59.66
+yellow_tripdata_2024-06.parquet,3539193,19,4,57.09
+yellow_tripdata_2024-07.parquet,3076903,19,3,49.88
+yellow_tripdata_2024-08.parquet,2979183,19,3,48.7
+yellow_tripdata_2024-09.parquet,3633030,19,4,58.34
+yellow_tripdata_2024-10.parquet,3833771,19,4,61.37
+yellow_tripdata_2024-11.parquet,3646369,19,4,57.85
+yellow_tripdata_2024-12.parquet,3668371,19,4,58.67

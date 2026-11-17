@@ -1,0 +1,3 @@
+is_cancelled|lineas|facturas|cantidad|importe
+f|1047877|45336|11099484|20813918.43
+t|19494|8292|-490992|-1526667.86

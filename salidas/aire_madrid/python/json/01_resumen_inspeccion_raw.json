@@ -1,0 +1,59 @@
+{
+    "ejecucion": {
+        "fecha_inicio": "2026-11-17T07:39:19.364924",
+        "fecha_fin": "2026-11-17T07:39:19.518808"
+    },
+    "fichero": {
+        "ruta": "/home/fcqdevadmin/curso_ia/datos/raw/aire_madrid/calidad_aire_madrid.csv",
+        "tamano_bytes": 260632,
+        "separador": ";",
+        "codificacion_lectura": "utf-8-sig"
+    },
+    "estructura": {
+        "registros_raw": 1411,
+        "columnas_raw": 69,
+        "columnas_base": 7,
+        "columnas_datos": 31,
+        "columnas_validez": 31,
+        "columnas_ausentes": [],
+        "columnas_adicionales": []
+    },
+    "calidad": {
+        "nulos_totales": 0,
+        "duplicados_completos": 0,
+        "filas_duplicadas_clave_mensual": 0,
+        "filas_formato_largo": 43741,
+        "fechas_imposibles": 768,
+        "mediciones_validas": 42273,
+        "mediciones_no_validas": 700,
+        "valores_negativos_validos": 0,
+        "ceros_marcados_validos": 0,
+        "indicadores_validez": [
+            "N",
+            "V"
+        ]
+    },
+    "dimensiones": {
+        "provincias": 1,
+        "municipios": 1,
+        "estaciones": 24,
+        "magnitudes": 11,
+        "puntos_muestreo": 131,
+        "anios": [
+            2024
+        ],
+        "meses": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    }
+}

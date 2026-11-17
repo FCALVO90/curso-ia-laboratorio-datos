@@ -1,0 +1,6 @@
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+datos/processed/retail/online_retail_ii_procesado.csv filter=lfs diff=lfs merge=lfs -text
+salidas/retail/queries/mongodb/csv/online_retail_ii_completo.csv filter=lfs diff=lfs merge=lfs -text

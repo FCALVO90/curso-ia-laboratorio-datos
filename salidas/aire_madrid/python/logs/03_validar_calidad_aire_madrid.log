@@ -1,0 +1,22 @@
+2026-11-17 07:39:20 | INFO | ===============================================================================
+2026-11-17 07:39:20 | INFO | VALIDACIÓN DEL DATASET PROCESADO
+2026-11-17 07:39:20 | INFO | ===============================================================================
+2026-11-17 07:39:20 | INFO | Dataset: /home/fcqdevadmin/curso_ia/datos/processed/aire_madrid/calidad_aire_madrid_procesado.csv
+2026-11-17 07:39:20 | INFO | Registros: 42273
+2026-11-17 07:39:20 | INFO | Columnas: 12
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/28_calidad_por_columna_procesado.csv
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/29_control_temporal_procesado.csv
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/30_control_magnitudes_procesado.csv
+2026-11-17 07:39:20 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/csv/27_validaciones_dataset_procesado.csv
+2026-11-17 07:39:20 | INFO | JSON generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/python/json/03_resumen_validacion.json
+2026-11-17 07:39:20 | INFO | ===============================================================================
+2026-11-17 07:39:20 | INFO | Pruebas ejecutadas: 15
+2026-11-17 07:39:20 | INFO | Pruebas OK: 15
+2026-11-17 07:39:20 | INFO | Errores: 0
+2026-11-17 07:39:20 | INFO | Atípicos conservados: 2577
+2026-11-17 07:39:20 | INFO | Estaciones: 24
+2026-11-17 07:39:20 | INFO | Magnitudes: 11
+2026-11-17 07:39:20 | INFO | Periodo: 2024-01-01 00:00:00 -> 2024-11-30 00:00:00
+2026-11-17 07:39:20 | INFO | VALIDACIÓN FINAL: OK
+2026-11-17 07:39:20 | INFO | El dataset procesado está preparado para EDA.
+2026-11-17 07:39:20 | INFO | ===============================================================================

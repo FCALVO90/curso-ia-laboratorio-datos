@@ -1,0 +1,1 @@
+{"total_lineas":1067371,"primera_fecha":{"$date":"2009-12-01T07:45:00Z"},"ultima_fecha":{"$date":"2011-12-09T12:50:00Z"},"total_facturas":53628,"total_productos":5304,"total_clientes":5943,"total_paises":43,"facturacion_total":19287250.57}

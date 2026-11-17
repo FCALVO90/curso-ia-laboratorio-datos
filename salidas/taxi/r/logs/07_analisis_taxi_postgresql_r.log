@@ -1,0 +1,53 @@
+[OK] Directorio preparado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv 
+[OK] Directorio preparado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/json 
+[OK] Directorio preparado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos 
+
+======================================================================
+ ANALISIS NYC TAXI DESDE POSTGRESQL CON R
+======================================================================
+[INFO] Tabla: nyc_taxi.viajes_limpios 
+[INFO] Muestra maxima: 120.000 
+Warning message:
+In prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  :
+  'big.mark' and 'decimal.mark' are both '.', which could be confusing
+[INFO] TABLESAMPLE: 0.35 %
+[INFO] Semilla: 42 
+
+======================================================================
+ 04. CONEXION Y DETECCION DE COLUMNAS
+======================================================================
+[INFO] Conectando con PostgreSQL...
+[OK] Conexion establecida.
+[OK] Columnas detectadas: 34 
+
+======================================================================
+ 05. AGREGADOS DESCRIPTIVOS
+======================================================================
+[SQL] Ejecutando: serie diaria ...
+[OK] serie diaria: 366 filas en 39.48 s.
+Warning message:
+In prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  :
+  'big.mark' and 'decimal.mark' are both '.', which could be confusing
+[CSV] Exportando 01_serie_diaria_r.csv (366 filas x 5 columnas)...
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/01_serie_diaria_r.csv 
+Warning message:
+In prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  :
+  'big.mark' and 'decimal.mark' are both '.', which could be confusing
+[GRAFICO] Generando: 01_demanda_diaria.png 
+`geom_smooth()` using formula = 'y ~ x'
+[OK] Grafico guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/graficos/01_demanda_diaria.png 
+[SQL] Ejecutando: resumen por pago ...
+[OK] resumen por pago: 5 filas en 18.04 s.
+Warning message:
+In prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  :
+  'big.mark' and 'decimal.mark' are both '.', which could be confusing
+[CSV] Exportando 02_pago_resumen_r.csv (5 filas x 5 columnas)...
+[OK] CSV guardado: /home/fcqdevadmin/curso_ia/salidas/taxi/r/csv/02_pago_resumen_r.csv 
+Warning message:
+In prettyNum(.Internal(format(x, trim, digits, nsmall, width, 3L,  :
+  'big.mark' and 'decimal.mark' are both '.', which could be confusing
+Error: unexpected symbol in:
+"
+save_plot"
+Execution halted
+ERROR conda.cli.main_run:execute(148): `conda run Rscript src/r/analisis_taxi_postgresql.R` failed. (See above for error)

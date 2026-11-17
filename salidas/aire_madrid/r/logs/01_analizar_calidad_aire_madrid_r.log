@@ -1,0 +1,30 @@
+2026-11-17 07:39:26 | INFO | =============================================================================== 
+2026-11-17 07:39:26 | INFO | INICIO DEL EDA EN R - CALIDAD DEL AIRE DE MADRID 
+2026-11-17 07:39:26 | INFO | =============================================================================== 
+2026-11-17 07:39:26 | INFO | Dataset procesado: /home/fcqdevadmin/curso_ia/datos/processed/aire_madrid/calidad_aire_madrid_procesado.csv 
+2026-11-17 07:39:26 | INFO | Registros: 42273 
+2026-11-17 07:39:26 | INFO | Estaciones: 24 
+2026-11-17 07:39:26 | INFO | Magnitudes: 11 
+2026-11-17 07:39:26 | INFO | Puntos de muestreo: 131 
+2026-11-17 07:39:26 | INFO | Atípicos IQR conservados: 2577 
+2026-11-17 07:39:26 | INFO | Porcentaje de atípicos: 6.0961% 
+2026-11-17 07:39:26 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/csv/01_descriptivos_por_magnitud_r.csv 
+2026-11-17 07:39:26 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/csv/02_evolucion_mensual_r.csv 
+2026-11-17 07:39:26 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/csv/03_resumen_estaciones_r.csv 
+2026-11-17 07:39:26 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/csv/04_atipicos_por_magnitud_r.csv 
+2026-11-17 07:39:26 | INFO | CSV generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/csv/05_ranking_estaciones_magnitud_r.csv 
+2026-11-17 07:39:27 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/graficos/01_distribucion_magnitudes_r.png 
+2026-11-17 07:39:27 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/graficos/02_boxplot_magnitudes_r.png 
+2026-11-17 07:39:27 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/graficos/03_evolucion_mensual_r.png 
+2026-11-17 07:39:27 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/graficos/04_atipicos_por_magnitud_r.png 
+2026-11-17 07:39:27 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/graficos/05_evolucion_diaria_r.png 
+2026-11-17 07:39:27 | INFO | Gráfico generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/graficos/06_panel_eda_calidad_aire_r.png 
+2026-11-17 07:39:27 | INFO | JSON generado: /home/fcqdevadmin/curso_ia/salidas/aire_madrid/r/json/01_resumen_eda_r.json 
+2026-11-17 07:39:27 | INFO | =============================================================================== 
+2026-11-17 07:39:27 | INFO | EDA EN R COMPLETADO CORRECTAMENTE 
+2026-11-17 07:39:27 | INFO | Registros analizados: 42273 
+2026-11-17 07:39:27 | INFO | Tablas CSV generadas: 5 
+2026-11-17 07:39:27 | INFO | Gráficos PNG generados: 6 
+2026-11-17 07:39:27 | INFO | Atípicos conservados: 2577 
+2026-11-17 07:39:27 | INFO | Duración: 1.6 segundos 
+2026-11-17 07:39:27 | INFO | =============================================================================== 

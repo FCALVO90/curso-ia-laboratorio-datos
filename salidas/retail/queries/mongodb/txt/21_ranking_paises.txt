@@ -1,0 +1,43 @@
+{"country":"United Kingdom","posicion":1,"facturacion":17870977.78}
+{"country":"EIRE","posicion":2,"facturacion":664431.78}
+{"country":"Netherlands","posicion":3,"facturacion":554232.34}
+{"country":"Germany","posicion":4,"facturacion":431262.46}
+{"country":"France","posicion":5,"facturacion":356944.6}
+{"country":"Australia","posicion":6,"facturacion":169968.11}
+{"country":"Spain","posicion":7,"facturacion":109178.53}
+{"country":"Switzerland","posicion":8,"facturacion":101011.29}
+{"country":"Sweden","posicion":9,"facturacion":91903.72}
+{"country":"Denmark","posicion":10,"facturacion":69862.19}
+{"country":"Belgium","posicion":11,"facturacion":65753.42}
+{"country":"Norway","posicion":12,"facturacion":60109.62}
+{"country":"Portugal","posicion":13,"facturacion":58016.65}
+{"country":"Japan","posicion":14,"facturacion":47138.39}
+{"country":"Channel Islands","posicion":15,"facturacion":44996.76}
+{"country":"Italy","posicion":16,"facturacion":32550.42}
+{"country":"Finland","posicion":17,"facturacion":29925.54}
+{"country":"Singapore","posicion":18,"facturacion":25317.06}
+{"country":"Cyprus","posicion":19,"facturacion":24980.13}
+{"country":"Hong Kong","posicion":20,"facturacion":23894.32}
+{"country":"Austria","posicion":21,"facturacion":23613.01}
+{"country":"Greece","posicion":22,"facturacion":19096.19}
+{"country":"Israel","posicion":23,"facturacion":11334.66}
+{"country":"United Arab Emirates","posicion":24,"facturacion":11097.63}
+{"country":"Unspecified","posicion":25,"facturacion":10936.01}
+{"country":"Poland","posicion":26,"facturacion":10902.45}
+{"country":"USA","posicion":27,"facturacion":8366.86}
+{"country":"Malta","posicion":28,"facturacion":8099.09}
+{"country":"Lithuania","posicion":29,"facturacion":6553.74}
+{"country":"Iceland","posicion":30,"facturacion":5633.32}
+{"country":"Canada","posicion":31,"facturacion":4883.04}
+{"country":"RSA","posicion":32,"facturacion":4804.32}
+{"country":"Bahrain","posicion":33,"facturacion":3109.79}
+{"country":"Thailand","posicion":34,"facturacion":3070.54}
+{"country":"Lebanon","posicion":35,"facturacion":1905.58}
+{"country":"Brazil","posicion":36,"facturacion":1411.87}
+{"country":"European Community","posicion":37,"facturacion":1300.25}
+{"country":"Bermuda","posicion":38,"facturacion":1253.14}
+{"country":"Korea","posicion":39,"facturacion":1118.51}
+{"country":"Czech Republic","posicion":40,"facturacion":826.74}
+{"country":"West Indies","posicion":41,"facturacion":536.41}
+{"country":"Saudi Arabia","posicion":42,"facturacion":145.92}
+{"country":"Nigeria","posicion":43,"facturacion":140.39}

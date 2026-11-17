@@ -1,0 +1,51 @@
+{
+    "entrada": {
+        "fichero": "/home/fcqdevadmin/curso_ia/datos/raw/aire_madrid/calidad_aire_madrid.csv",
+        "registros": 1411,
+        "columnas": 69,
+        "sha256": "a3e0a5d416a1b632892bf4355b0988293555e78f99c2a0bb004a3e57b58d89f2"
+    },
+    "transformacion": {
+        "registros_formato_largo": 43741,
+        "fechas_imposibles_eliminadas": 768,
+        "mediciones_no_validas_eliminadas": 700,
+        "valores_no_numericos_eliminados": 0,
+        "duplicados_eliminados": 0,
+        "valores_negativos_detectados": 0
+    },
+    "atipicos": {
+        "metodo": "IQR 1.5",
+        "agrupacion": "magnitud",
+        "detectados": 2577,
+        "eliminados": 0,
+        "criterio": "Se marcan pero se conservan para EDA."
+    },
+    "salida": {
+        "fichero": "/home/fcqdevadmin/curso_ia/datos/processed/aire_madrid/calidad_aire_madrid_procesado.csv",
+        "registros": 42273,
+        "columnas": 12,
+        "columnas_finales": [
+            "provincia",
+            "municipio",
+            "estacion",
+            "magnitud",
+            "punto_muestreo",
+            "anio",
+            "mes",
+            "dia",
+            "fecha",
+            "valor",
+            "indicador_validez",
+            "es_atipico_iqr"
+        ]
+    },
+    "integridad_raw": {
+        "sha256_antes": "a3e0a5d416a1b632892bf4355b0988293555e78f99c2a0bb004a3e57b58d89f2",
+        "sha256_despues": "a3e0a5d416a1b632892bf4355b0988293555e78f99c2a0bb004a3e57b58d89f2",
+        "modificado": false
+    },
+    "ejecucion": {
+        "inicio": "2026-11-17T07:39:19.893919",
+        "fin": "2026-11-17T07:39:20.135434"
+    }
+}

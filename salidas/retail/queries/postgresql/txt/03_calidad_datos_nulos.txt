@@ -1,0 +1,2 @@
+total_filas|invoice_no_nulos|stock_code_nulos|description_nulos|quantity_nulos|invoice_date_nulos|unit_price_nulos|customer_id_nulos|country_nulos|total_amount_nulos
+1067371|0|0|4382|0|0|0|243007|0|0

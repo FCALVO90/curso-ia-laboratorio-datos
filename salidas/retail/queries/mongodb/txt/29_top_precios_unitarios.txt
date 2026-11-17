@@ -1,0 +1,20 @@
+{"invoice_no":"C556445","stockcode":"M","description":"Manual","invoice_date":{"$date":"2011-06-10T15:31:00Z"},"unit_price":38970,"country":"United Kingdom"}
+{"invoice_no":"512771","stockcode":"M","description":"Manual","invoice_date":{"$date":"2010-06-17T16:53:00Z"},"unit_price":25111.09,"country":"United Kingdom"}
+{"invoice_no":"C512770","stockcode":"M","description":"Manual","invoice_date":{"$date":"2010-06-17T16:52:00Z"},"unit_price":25111.09,"country":"United Kingdom"}
+{"invoice_no":"C520667","stockcode":"BANK CHARGES","description":"Bank Charges","invoice_date":{"$date":"2010-08-27T13:42:00Z"},"unit_price":18910.69,"country":"United Kingdom"}
+{"invoice_no":"C580605","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2011-12-05T11:36:00Z"},"unit_price":17836.46,"country":"United Kingdom"}
+{"invoice_no":"C540117","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2011-01-05T09:55:00Z"},"unit_price":16888.02,"country":"United Kingdom"}
+{"invoice_no":"C540118","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2011-01-05T09:57:00Z"},"unit_price":16453.71,"country":"United Kingdom"}
+{"invoice_no":"C537630","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2010-12-07T15:04:00Z"},"unit_price":13541.33,"country":"United Kingdom"}
+{"invoice_no":"537632","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2010-12-07T15:08:00Z"},"unit_price":13541.33,"country":"United Kingdom"}
+{"invoice_no":"C537630","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2010-12-07T15:04:00Z"},"unit_price":13541.33,"country":"United Kingdom"}
+{"invoice_no":"537632","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2010-12-07T15:08:00Z"},"unit_price":13541.33,"country":"United Kingdom"}
+{"invoice_no":"C537651","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2010-12-07T15:49:00Z"},"unit_price":13541.33,"country":"United Kingdom"}
+{"invoice_no":"C537651","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2010-12-07T15:49:00Z"},"unit_price":13541.33,"country":"United Kingdom"}
+{"invoice_no":"C537644","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2010-12-07T15:34:00Z"},"unit_price":13474.79,"country":"United Kingdom"}
+{"invoice_no":"C537644","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2010-12-07T15:34:00Z"},"unit_price":13474.79,"country":"United Kingdom"}
+{"invoice_no":"C580604","stockcode":"AMAZONFEE","description":"AMAZON FEE","invoice_date":{"$date":"2011-12-05T11:35:00Z"},"unit_price":11586.5,"country":"United Kingdom"}
+{"invoice_no":"A563185","stockcode":"B","description":"Adjust bad debt","invoice_date":{"$date":"2011-08-12T14:50:00Z"},"unit_price":11062.06,"country":"United Kingdom"}
+{"invoice_no":"C502264","stockcode":"M","description":"Manual","invoice_date":{"$date":"2010-03-23T15:24:00Z"},"unit_price":10953.5,"country":"United Kingdom"}
+{"invoice_no":"502265","stockcode":"M","description":"Manual","invoice_date":{"$date":"2010-03-23T15:28:00Z"},"unit_price":10953.5,"country":"United Kingdom"}
+{"invoice_no":"502263","stockcode":"M","description":"Manual","invoice_date":{"$date":"2010-03-23T15:22:00Z"},"unit_price":10953.5,"country":"United Kingdom"}
